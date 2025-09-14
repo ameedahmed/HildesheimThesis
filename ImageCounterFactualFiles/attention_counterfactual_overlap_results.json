@@ -1,0 +1,2847 @@
+{
+  "averages": {
+    "average_attention_coverage": 0.10525372389694819,
+    "average_counterfactual_coverage": 0.2802313983059324,
+    "average_jaccard_similarity": 0.04425897002953315,
+    "total_images_processed": 256,
+    "std_attention_coverage": 0.16918154829663895,
+    "std_counterfactual_coverage": 0.32986760295121265,
+    "std_jaccard_similarity": 0.052119795175307085
+  },
+  "detailed_results": {
+    "Aubry, Peter II": {
+      "A_10200": {
+        "coordinates_count": 51822,
+        "overlap_metrics": {
+          "intersection_pixels": 12602,
+          "attention_pixels": 51822,
+          "counterfactual_pixels": 53901,
+          "attention_coverage": 0.243178572806916,
+          "counterfactual_coverage": 0.23379900187380567,
+          "jaccard_similarity": 0.13532930273515104
+        }
+      },
+      "A_11322": {
+        "coordinates_count": 39787,
+        "overlap_metrics": {
+          "intersection_pixels": 5402,
+          "attention_pixels": 39787,
+          "counterfactual_pixels": 19270,
+          "attention_coverage": 0.13577299117802297,
+          "counterfactual_coverage": 0.28033212247016087,
+          "jaccard_similarity": 0.10068027210884353
+        }
+      },
+      "A_12052": {
+        "coordinates_count": 12264,
+        "overlap_metrics": {
+          "intersection_pixels": 1782,
+          "attention_pixels": 12264,
+          "counterfactual_pixels": 27572,
+          "attention_coverage": 0.14530332681017613,
+          "counterfactual_coverage": 0.06463078485419992,
+          "jaccard_similarity": 0.0468281915173175
+        }
+      },
+      "A_13279": {
+        "coordinates_count": 11623,
+        "overlap_metrics": {
+          "intersection_pixels": 1871,
+          "attention_pixels": 11623,
+          "counterfactual_pixels": 35804,
+          "attention_coverage": 0.16097393099888152,
+          "counterfactual_coverage": 0.05225673109149816,
+          "jaccard_similarity": 0.04107033102116077
+        }
+      },
+      "A_1552": {
+        "coordinates_count": 24558,
+        "overlap_metrics": {
+          "intersection_pixels": 2891,
+          "attention_pixels": 24558,
+          "counterfactual_pixels": 53112,
+          "attention_coverage": 0.11772131281048945,
+          "counterfactual_coverage": 0.05443214339508962,
+          "jaccard_similarity": 0.0386605865283034
+        }
+      },
+      "A_16721": {
+        "coordinates_count": 10766,
+        "overlap_metrics": {
+          "intersection_pixels": 1036,
+          "attention_pixels": 10766,
+          "counterfactual_pixels": 25330,
+          "attention_coverage": 0.09622886866059818,
+          "counterfactual_coverage": 0.0409001184366364,
+          "jaccard_similarity": 0.02954934398174558
+        }
+      },
+      "A_16770": {
+        "coordinates_count": 5342,
+        "overlap_metrics": {
+          "intersection_pixels": 4185,
+          "attention_pixels": 5342,
+          "counterfactual_pixels": 63993,
+          "attention_coverage": 0.7834144515162861,
+          "counterfactual_coverage": 0.06539777788195585,
+          "jaccard_similarity": 0.06423637759017652
+        }
+      },
+      "A_16783": {
+        "coordinates_count": 14624,
+        "overlap_metrics": {
+          "intersection_pixels": 1449,
+          "attention_pixels": 14624,
+          "counterfactual_pixels": 28772,
+          "attention_coverage": 0.09908369803063458,
+          "counterfactual_coverage": 0.050361462533018216,
+          "jaccard_similarity": 0.034543590721624905
+        }
+      },
+      "A_16986": {
+        "coordinates_count": 11837,
+        "overlap_metrics": {
+          "intersection_pixels": 2564,
+          "attention_pixels": 11837,
+          "counterfactual_pixels": 31240,
+          "attention_coverage": 0.2166089380755259,
+          "counterfactual_coverage": 0.0820742637644046,
+          "jaccard_similarity": 0.06328832720361366
+        }
+      },
+      "A_17026": {
+        "coordinates_count": 85644,
+        "overlap_metrics": {
+          "intersection_pixels": 1774,
+          "attention_pixels": 85644,
+          "counterfactual_pixels": 1774,
+          "attention_coverage": 0.020713651861192846,
+          "counterfactual_coverage": 1.0,
+          "jaccard_similarity": 0.020713651861192846
+        }
+      },
+      "A_18815": {
+        "coordinates_count": 1625,
+        "overlap_metrics": {
+          "intersection_pixels": 0,
+          "attention_pixels": 1625,
+          "counterfactual_pixels": 17109,
+          "attention_coverage": 0.0,
+          "counterfactual_coverage": 0.0,
+          "jaccard_similarity": 0.0
+        }
+      },
+      "A_21554": {
+        "coordinates_count": 17256,
+        "overlap_metrics": {
+          "intersection_pixels": 3272,
+          "attention_pixels": 17256,
+          "counterfactual_pixels": 17879,
+          "attention_coverage": 0.18961520630505332,
+          "counterfactual_coverage": 0.18300799821019073,
+          "jaccard_similarity": 0.10268964002134137
+        }
+      },
+      "A_221": {
+        "coordinates_count": 60151,
+        "overlap_metrics": {
+          "intersection_pixels": 16600,
+          "attention_pixels": 60151,
+          "counterfactual_pixels": 31031,
+          "attention_coverage": 0.27597213678908084,
+          "counterfactual_coverage": 0.5349489220456962,
+          "jaccard_similarity": 0.2225738113753989
+        }
+      },
+      "A_22826": {
+        "coordinates_count": 73113,
+        "overlap_metrics": {
+          "intersection_pixels": 7672,
+          "attention_pixels": 73113,
+          "counterfactual_pixels": 15452,
+          "attention_coverage": 0.1049334591659486,
+          "counterfactual_coverage": 0.4965053067564069,
+          "jaccard_similarity": 0.09484133361353887
+        }
+      },
+      "A_2333": {
+        "coordinates_count": 70849,
+        "overlap_metrics": {
+          "intersection_pixels": 20707,
+          "attention_pixels": 70849,
+          "counterfactual_pixels": 45901,
+          "attention_coverage": 0.29226947451622465,
+          "counterfactual_coverage": 0.45112306921417833,
+          "jaccard_similarity": 0.21560134523078203
+        }
+      },
+      "A_24479": {
+        "coordinates_count": 41408,
+        "overlap_metrics": {
+          "intersection_pixels": 8421,
+          "attention_pixels": 41408,
+          "counterfactual_pixels": 25934,
+          "attention_coverage": 0.20336649922720249,
+          "counterfactual_coverage": 0.32470887637849927,
+          "jaccard_similarity": 0.14292018125965275
+        }
+      },
+      "A_25226": {
+        "coordinates_count": 37563,
+        "overlap_metrics": {
+          "intersection_pixels": 2620,
+          "attention_pixels": 37563,
+          "counterfactual_pixels": 3216,
+          "attention_coverage": 0.06974948752762027,
+          "counterfactual_coverage": 0.8146766169154229,
+          "jaccard_similarity": 0.06866008019078068
+        }
+      },
+      "A_25594": {
+        "coordinates_count": 5370,
+        "overlap_metrics": {
+          "intersection_pixels": 1661,
+          "attention_pixels": 5370,
+          "counterfactual_pixels": 60704,
+          "attention_coverage": 0.30931098696461823,
+          "counterfactual_coverage": 0.027362282551396944,
+          "jaccard_similarity": 0.025786720072035148
+        }
+      },
+      "A_25863": {
+        "coordinates_count": 1623,
+        "overlap_metrics": {
+          "intersection_pixels": 0,
+          "attention_pixels": 1623,
+          "counterfactual_pixels": 54194,
+          "attention_coverage": 0.0,
+          "counterfactual_coverage": 0.0,
+          "jaccard_similarity": 0.0
+        }
+      },
+      "A_27037": {
+        "coordinates_count": 5421,
+        "overlap_metrics": {
+          "intersection_pixels": 2379,
+          "attention_pixels": 5421,
+          "counterfactual_pixels": 23217,
+          "attention_coverage": 0.43884892086330934,
+          "counterfactual_coverage": 0.10246801912391781,
+          "jaccard_similarity": 0.09059750942533988
+        }
+      },
+      "A_27346": {
+        "coordinates_count": 111960,
+        "overlap_metrics": {
+          "intersection_pixels": 17115,
+          "attention_pixels": 111960,
+          "counterfactual_pixels": 24130,
+          "attention_coverage": 0.15286709539121116,
+          "counterfactual_coverage": 0.7092830501450477,
+          "jaccard_similarity": 0.14385375078798066
+        }
+      },
+      "A_27555": {
+        "coordinates_count": 75060,
+        "overlap_metrics": {
+          "intersection_pixels": 11786,
+          "attention_pixels": 75060,
+          "counterfactual_pixels": 33842,
+          "attention_coverage": 0.15702104982680523,
+          "counterfactual_coverage": 0.34826546894391586,
+          "jaccard_similarity": 0.12136002306520038
+        }
+      },
+      "A_27710": {
+        "coordinates_count": 84327,
+        "overlap_metrics": {
+          "intersection_pixels": 7848,
+          "attention_pixels": 84327,
+          "counterfactual_pixels": 9087,
+          "attention_coverage": 0.09306627770464976,
+          "counterfactual_coverage": 0.8636513700891383,
+          "jaccard_similarity": 0.09171867330481734
+        }
+      },
+      "A_27971": {
+        "coordinates_count": 1724,
+        "overlap_metrics": {
+          "intersection_pixels": 116,
+          "attention_pixels": 1724,
+          "counterfactual_pixels": 35308,
+          "attention_coverage": 0.06728538283062645,
+          "counterfactual_coverage": 0.003285374419395038,
+          "jaccard_similarity": 0.003142268934879185
+        }
+      },
+      "A_4785": {
+        "coordinates_count": 31365,
+        "overlap_metrics": {
+          "intersection_pixels": 7481,
+          "attention_pixels": 31365,
+          "counterfactual_pixels": 34186,
+          "attention_coverage": 0.23851426749561613,
+          "counterfactual_coverage": 0.21883227052009593,
+          "jaccard_similarity": 0.12882727742379887
+        }
+      },
+      "A_5908": {
+        "coordinates_count": 4109,
+        "overlap_metrics": {
+          "intersection_pixels": 581,
+          "attention_pixels": 4109,
+          "counterfactual_pixels": 27584,
+          "attention_coverage": 0.141396933560477,
+          "counterfactual_coverage": 0.021062935034802784,
+          "jaccard_similarity": 0.01867446644381589
+        }
+      },
+      "A_6058": {
+        "coordinates_count": 43777,
+        "overlap_metrics": {
+          "intersection_pixels": 12244,
+          "attention_pixels": 43777,
+          "counterfactual_pixels": 20764,
+          "attention_coverage": 0.2796902483039039,
+          "counterfactual_coverage": 0.5896744365247544,
+          "jaccard_similarity": 0.234124328355355
+        }
+      },
+      "A_6942": {
+        "coordinates_count": 4852,
+        "overlap_metrics": {
+          "intersection_pixels": 253,
+          "attention_pixels": 4852,
+          "counterfactual_pixels": 9534,
+          "attention_coverage": 0.0521434460016488,
+          "counterfactual_coverage": 0.026536605831760016,
+          "jaccard_similarity": 0.01790136559824524
+        }
+      },
+      "A_7403": {
+        "coordinates_count": 7539,
+        "overlap_metrics": {
+          "intersection_pixels": 100,
+          "attention_pixels": 7539,
+          "counterfactual_pixels": 13151,
+          "attention_coverage": 0.01326435866825839,
+          "counterfactual_coverage": 0.007603984487871644,
+          "jaccard_similarity": 0.0048567265662943174
+        }
+      },
+      "A_9686": {
+        "coordinates_count": 98033,
+        "overlap_metrics": {
+          "intersection_pixels": 12527,
+          "attention_pixels": 98033,
+          "counterfactual_pixels": 26522,
+          "attention_coverage": 0.12778350147399345,
+          "counterfactual_coverage": 0.4723248623784028,
+          "jaccard_similarity": 0.11182025922090906
+        }
+      }
+    },
+    "Bock, Christoph Wilhelm": {
+      "A_10048": {
+        "coordinates_count": 3561,
+        "overlap_metrics": {
+          "intersection_pixels": 116,
+          "attention_pixels": 3561,
+          "counterfactual_pixels": 3633,
+          "attention_coverage": 0.03257511934849761,
+          "counterfactual_coverage": 0.03192953481970823,
+          "jaccard_similarity": 0.016388810398417632
+        }
+      },
+      "A_11003": {
+        "coordinates_count": 4181,
+        "overlap_metrics": {
+          "intersection_pixels": 37,
+          "attention_pixels": 4181,
+          "counterfactual_pixels": 23649,
+          "attention_coverage": 0.008849557522123894,
+          "counterfactual_coverage": 0.001564548183855554,
+          "jaccard_similarity": 0.0013312704637858453
+        }
+      },
+      "A_11697": {
+        "coordinates_count": 4369,
+        "overlap_metrics": {
+          "intersection_pixels": 740,
+          "attention_pixels": 4369,
+          "counterfactual_pixels": 13755,
+          "attention_coverage": 0.1693751430533303,
+          "counterfactual_coverage": 0.05379861868411487,
+          "jaccard_similarity": 0.04256787850897377
+        }
+      },
+      "A_11698": {
+        "coordinates_count": 1680,
+        "overlap_metrics": {
+          "intersection_pixels": 0,
+          "attention_pixels": 1680,
+          "counterfactual_pixels": 14134,
+          "attention_coverage": 0.0,
+          "counterfactual_coverage": 0.0,
+          "jaccard_similarity": 0.0
+        }
+      },
+      "A_11734": {
+        "coordinates_count": 7615,
+        "overlap_metrics": {
+          "intersection_pixels": 3618,
+          "attention_pixels": 7615,
+          "counterfactual_pixels": 12829,
+          "attention_coverage": 0.47511490479317137,
+          "counterfactual_coverage": 0.2820173045443916,
+          "jaccard_similarity": 0.2150243670509925
+        }
+      },
+      "A_11854": {
+        "coordinates_count": 6168,
+        "overlap_metrics": {
+          "intersection_pixels": 769,
+          "attention_pixels": 6168,
+          "counterfactual_pixels": 4730,
+          "attention_coverage": 0.1246757457846952,
+          "counterfactual_coverage": 0.16257928118393233,
+          "jaccard_similarity": 0.07592062395103169
+        }
+      },
+      "A_13676": {
+        "coordinates_count": 50816,
+        "overlap_metrics": {
+          "intersection_pixels": 2908,
+          "attention_pixels": 50816,
+          "counterfactual_pixels": 3249,
+          "attention_coverage": 0.057226070528967256,
+          "counterfactual_coverage": 0.8950446291166513,
+          "jaccard_similarity": 0.05684461559512872
+        }
+      },
+      "A_14186": {
+        "coordinates_count": 9713,
+        "overlap_metrics": {
+          "intersection_pixels": 1429,
+          "attention_pixels": 9713,
+          "counterfactual_pixels": 12180,
+          "attention_coverage": 0.1471224132605786,
+          "counterfactual_coverage": 0.11732348111658457,
+          "jaccard_similarity": 0.06982994526974198
+        }
+      },
+      "A_14701": {
+        "coordinates_count": 7529,
+        "overlap_metrics": {
+          "intersection_pixels": 0,
+          "attention_pixels": 7529,
+          "counterfactual_pixels": 8495,
+          "attention_coverage": 0.0,
+          "counterfactual_coverage": 0.0,
+          "jaccard_similarity": 0.0
+        }
+      },
+      "A_15244": {
+        "coordinates_count": 1774,
+        "overlap_metrics": {
+          "intersection_pixels": 0,
+          "attention_pixels": 1774,
+          "counterfactual_pixels": 9432,
+          "attention_coverage": 0.0,
+          "counterfactual_coverage": 0.0,
+          "jaccard_similarity": 0.0
+        }
+      },
+      "A_15245": {
+        "coordinates_count": 5263,
+        "overlap_metrics": {
+          "intersection_pixels": 10,
+          "attention_pixels": 5263,
+          "counterfactual_pixels": 2545,
+          "attention_coverage": 0.0019000570017100513,
+          "counterfactual_coverage": 0.003929273084479371,
+          "jaccard_similarity": 0.0012823800974608873
+        }
+      },
+      "A_16236": {
+        "coordinates_count": 1676,
+        "overlap_metrics": {
+          "intersection_pixels": 0,
+          "attention_pixels": 1676,
+          "counterfactual_pixels": 7263,
+          "attention_coverage": 0.0,
+          "counterfactual_coverage": 0.0,
+          "jaccard_similarity": 0.0
+        }
+      },
+      "A_17369": {
+        "coordinates_count": 5067,
+        "overlap_metrics": {
+          "intersection_pixels": 1385,
+          "attention_pixels": 5067,
+          "counterfactual_pixels": 16094,
+          "attention_coverage": 0.27333728044207617,
+          "counterfactual_coverage": 0.08605691562072822,
+          "jaccard_similarity": 0.07003438511326861
+        }
+      },
+      "A_19087": {
+        "coordinates_count": 11117,
+        "overlap_metrics": {
+          "intersection_pixels": 407,
+          "attention_pixels": 11117,
+          "counterfactual_pixels": 18146,
+          "attention_coverage": 0.036610596383916526,
+          "counterfactual_coverage": 0.02242918549542599,
+          "jaccard_similarity": 0.014104518990851123
+        }
+      },
+      "A_19666": {
+        "coordinates_count": 6733,
+        "overlap_metrics": {
+          "intersection_pixels": 1362,
+          "attention_pixels": 6733,
+          "counterfactual_pixels": 18020,
+          "attention_coverage": 0.20228724194267042,
+          "counterfactual_coverage": 0.0755826859045505,
+          "jaccard_similarity": 0.05822752340643837
+        }
+      },
+      "A_19869": {
+        "coordinates_count": 2917,
+        "overlap_metrics": {
+          "intersection_pixels": 32,
+          "attention_pixels": 2917,
+          "counterfactual_pixels": 5075,
+          "attention_coverage": 0.010970174837161468,
+          "counterfactual_coverage": 0.006305418719211823,
+          "jaccard_similarity": 0.004020100502512563
+        }
+      },
+      "A_20168": {
+        "coordinates_count": 1726,
+        "overlap_metrics": {
+          "intersection_pixels": 0,
+          "attention_pixels": 1726,
+          "counterfactual_pixels": 14589,
+          "attention_coverage": 0.0,
+          "counterfactual_coverage": 0.0,
+          "jaccard_similarity": 0.0
+        }
+      },
+      "A_20969": {
+        "coordinates_count": 9512,
+        "overlap_metrics": {
+          "intersection_pixels": 731,
+          "attention_pixels": 9512,
+          "counterfactual_pixels": 14402,
+          "attention_coverage": 0.07685029436501262,
+          "counterfactual_coverage": 0.05075683932787113,
+          "jaccard_similarity": 0.031531725833584955
+        }
+      },
+      "A_21086": {
+        "coordinates_count": 78964,
+        "overlap_metrics": {
+          "intersection_pixels": 4452,
+          "attention_pixels": 78964,
+          "counterfactual_pixels": 4594,
+          "attention_coverage": 0.056380122587508234,
+          "counterfactual_coverage": 0.9690901175446234,
+          "jaccard_similarity": 0.05627891689631633
+        }
+      },
+      "A_23153": {
+        "coordinates_count": 1595,
+        "overlap_metrics": {
+          "intersection_pixels": 0,
+          "attention_pixels": 1595,
+          "counterfactual_pixels": 8412,
+          "attention_coverage": 0.0,
+          "counterfactual_coverage": 0.0,
+          "jaccard_similarity": 0.0
+        }
+      },
+      "A_23527": {
+        "coordinates_count": 4430,
+        "overlap_metrics": {
+          "intersection_pixels": 0,
+          "attention_pixels": 4430,
+          "counterfactual_pixels": 7187,
+          "attention_coverage": 0.0,
+          "counterfactual_coverage": 0.0,
+          "jaccard_similarity": 0.0
+        }
+      },
+      "A_24302": {
+        "coordinates_count": 27316,
+        "overlap_metrics": {
+          "intersection_pixels": 4057,
+          "attention_pixels": 27316,
+          "counterfactual_pixels": 8904,
+          "attention_coverage": 0.1485210133255235,
+          "counterfactual_coverage": 0.4556379155435759,
+          "jaccard_similarity": 0.12613873083978486
+        }
+      },
+      "A_24937": {
+        "coordinates_count": 1633,
+        "overlap_metrics": {
+          "intersection_pixels": 0,
+          "attention_pixels": 1633,
+          "counterfactual_pixels": 5810,
+          "attention_coverage": 0.0,
+          "counterfactual_coverage": 0.0,
+          "jaccard_similarity": 0.0
+        }
+      },
+      "A_26083": {
+        "coordinates_count": 6543,
+        "overlap_metrics": {
+          "intersection_pixels": 0,
+          "attention_pixels": 6543,
+          "counterfactual_pixels": 13388,
+          "attention_coverage": 0.0,
+          "counterfactual_coverage": 0.0,
+          "jaccard_similarity": 0.0
+        }
+      },
+      "A_26145": {
+        "coordinates_count": 5280,
+        "overlap_metrics": {
+          "intersection_pixels": 64,
+          "attention_pixels": 5280,
+          "counterfactual_pixels": 15014,
+          "attention_coverage": 0.012121212121212121,
+          "counterfactual_coverage": 0.004262688157719462,
+          "jaccard_similarity": 0.0031636183885318833
+        }
+      },
+      "A_26237": {
+        "coordinates_count": 6085,
+        "overlap_metrics": {
+          "intersection_pixels": 513,
+          "attention_pixels": 6085,
+          "counterfactual_pixels": 23497,
+          "attention_coverage": 0.08430566967953985,
+          "counterfactual_coverage": 0.021832574371196324,
+          "jaccard_similarity": 0.017647665898379718
+        }
+      },
+      "A_26687": {
+        "coordinates_count": 3223,
+        "overlap_metrics": {
+          "intersection_pixels": 106,
+          "attention_pixels": 3223,
+          "counterfactual_pixels": 12209,
+          "attention_coverage": 0.03288861309339125,
+          "counterfactual_coverage": 0.008682119747727087,
+          "jaccard_similarity": 0.006916351298447083
+        }
+      },
+      "A_27100": {
+        "coordinates_count": 1812,
+        "overlap_metrics": {
+          "intersection_pixels": 28,
+          "attention_pixels": 1812,
+          "counterfactual_pixels": 11027,
+          "attention_coverage": 0.01545253863134658,
+          "counterfactual_coverage": 0.0025392219098576223,
+          "jaccard_similarity": 0.0021856217313246428
+        }
+      },
+      "A_28439": {
+        "coordinates_count": 3655,
+        "overlap_metrics": {
+          "intersection_pixels": 314,
+          "attention_pixels": 3655,
+          "counterfactual_pixels": 25416,
+          "attention_coverage": 0.08590971272229822,
+          "counterfactual_coverage": 0.012354422411079634,
+          "jaccard_similarity": 0.010919080571686893
+        }
+      },
+      "A_3380": {
+        "coordinates_count": 1606,
+        "overlap_metrics": {
+          "intersection_pixels": 0,
+          "attention_pixels": 1606,
+          "counterfactual_pixels": 13681,
+          "attention_coverage": 0.0,
+          "counterfactual_coverage": 0.0,
+          "jaccard_similarity": 0.0
+        }
+      },
+      "A_4366": {
+        "coordinates_count": 3042,
+        "overlap_metrics": {
+          "intersection_pixels": 370,
+          "attention_pixels": 3042,
+          "counterfactual_pixels": 14044,
+          "attention_coverage": 0.12163050624589086,
+          "counterfactual_coverage": 0.026345770435773283,
+          "jaccard_similarity": 0.022134481933476908
+        }
+      },
+      "A_5098": {
+        "coordinates_count": 1696,
+        "overlap_metrics": {
+          "intersection_pixels": 0,
+          "attention_pixels": 1696,
+          "counterfactual_pixels": 5206,
+          "attention_coverage": 0.0,
+          "counterfactual_coverage": 0.0,
+          "jaccard_similarity": 0.0
+        }
+      },
+      "A_7132": {
+        "coordinates_count": 1599,
+        "overlap_metrics": {
+          "intersection_pixels": 0,
+          "attention_pixels": 1599,
+          "counterfactual_pixels": 8711,
+          "attention_coverage": 0.0,
+          "counterfactual_coverage": 0.0,
+          "jaccard_similarity": 0.0
+        }
+      },
+      "A_7169": {
+        "coordinates_count": 6112,
+        "overlap_metrics": {
+          "intersection_pixels": 1124,
+          "attention_pixels": 6112,
+          "counterfactual_pixels": 6110,
+          "attention_coverage": 0.18390052356020942,
+          "counterfactual_coverage": 0.1839607201309329,
+          "jaccard_similarity": 0.10127950982158948
+        }
+      },
+      "A_8867": {
+        "coordinates_count": 7847,
+        "overlap_metrics": {
+          "intersection_pixels": 6,
+          "attention_pixels": 7847,
+          "counterfactual_pixels": 13,
+          "attention_coverage": 0.0007646234229641901,
+          "counterfactual_coverage": 0.46153846153846156,
+          "jaccard_similarity": 0.0007639419404125286
+        }
+      },
+      "A_9424": {
+        "coordinates_count": 1710,
+        "overlap_metrics": {
+          "intersection_pixels": 0,
+          "attention_pixels": 1710,
+          "counterfactual_pixels": 5364,
+          "attention_coverage": 0.0,
+          "counterfactual_coverage": 0.0,
+          "jaccard_similarity": 0.0
+        }
+      }
+    },
+    "Kilian, Lucas": {
+      "A_16417": {
+        "coordinates_count": 1590,
+        "overlap_metrics": {
+          "intersection_pixels": 152,
+          "attention_pixels": 1590,
+          "counterfactual_pixels": 8493,
+          "attention_coverage": 0.09559748427672957,
+          "counterfactual_coverage": 0.017897091722595078,
+          "jaccard_similarity": 0.01530560870003021
+        }
+      },
+      "A_1654": {
+        "coordinates_count": 1604,
+        "overlap_metrics": {
+          "intersection_pixels": 0,
+          "attention_pixels": 1604,
+          "counterfactual_pixels": 15635,
+          "attention_coverage": 0.0,
+          "counterfactual_coverage": 0.0,
+          "jaccard_similarity": 0.0
+        }
+      },
+      "A_17218": {
+        "coordinates_count": 1601,
+        "overlap_metrics": {
+          "intersection_pixels": 0,
+          "attention_pixels": 1601,
+          "counterfactual_pixels": 22780,
+          "attention_coverage": 0.0,
+          "counterfactual_coverage": 0.0,
+          "jaccard_similarity": 0.0
+        }
+      },
+      "A_17347": {
+        "coordinates_count": 1590,
+        "overlap_metrics": {
+          "intersection_pixels": 0,
+          "attention_pixels": 1590,
+          "counterfactual_pixels": 9202,
+          "attention_coverage": 0.0,
+          "counterfactual_coverage": 0.0,
+          "jaccard_similarity": 0.0
+        }
+      },
+      "A_18021": {
+        "coordinates_count": 1595,
+        "overlap_metrics": {
+          "intersection_pixels": 7,
+          "attention_pixels": 1595,
+          "counterfactual_pixels": 15222,
+          "attention_coverage": 0.00438871473354232,
+          "counterfactual_coverage": 0.00045986072789383785,
+          "jaccard_similarity": 0.0004164187983343248
+        }
+      },
+      "A_19573": {
+        "coordinates_count": 1618,
+        "overlap_metrics": {
+          "intersection_pixels": 0,
+          "attention_pixels": 1618,
+          "counterfactual_pixels": 36075,
+          "attention_coverage": 0.0,
+          "counterfactual_coverage": 0.0,
+          "jaccard_similarity": 0.0
+        }
+      },
+      "A_20327": {
+        "coordinates_count": 1590,
+        "overlap_metrics": {
+          "intersection_pixels": 1336,
+          "attention_pixels": 1590,
+          "counterfactual_pixels": 19963,
+          "attention_coverage": 0.8402515723270441,
+          "counterfactual_coverage": 0.06692380904673646,
+          "jaccard_similarity": 0.06608299945590344
+        }
+      },
+      "A_22386": {
+        "coordinates_count": 1590,
+        "overlap_metrics": {
+          "intersection_pixels": 940,
+          "attention_pixels": 1590,
+          "counterfactual_pixels": 13225,
+          "attention_coverage": 0.5911949685534591,
+          "counterfactual_coverage": 0.07107750472589792,
+          "jaccard_similarity": 0.06774774774774775
+        }
+      },
+      "A_2306": {
+        "coordinates_count": 1590,
+        "overlap_metrics": {
+          "intersection_pixels": 0,
+          "attention_pixels": 1590,
+          "counterfactual_pixels": 15244,
+          "attention_coverage": 0.0,
+          "counterfactual_coverage": 0.0,
+          "jaccard_similarity": 0.0
+        }
+      },
+      "A_2308": {
+        "coordinates_count": 1588,
+        "overlap_metrics": {
+          "intersection_pixels": 0,
+          "attention_pixels": 1588,
+          "counterfactual_pixels": 16432,
+          "attention_coverage": 0.0,
+          "counterfactual_coverage": 0.0,
+          "jaccard_similarity": 0.0
+        }
+      },
+      "A_23432": {
+        "coordinates_count": 4510,
+        "overlap_metrics": {
+          "intersection_pixels": 410,
+          "attention_pixels": 4510,
+          "counterfactual_pixels": 6435,
+          "attention_coverage": 0.09090909090909091,
+          "counterfactual_coverage": 0.06371406371406371,
+          "jaccard_similarity": 0.03891789273849074
+        }
+      },
+      "A_24450": {
+        "coordinates_count": 1614,
+        "overlap_metrics": {
+          "intersection_pixels": 0,
+          "attention_pixels": 1614,
+          "counterfactual_pixels": 2288,
+          "attention_coverage": 0.0,
+          "counterfactual_coverage": 0.0,
+          "jaccard_similarity": 0.0
+        }
+      },
+      "A_25221": {
+        "coordinates_count": 1590,
+        "overlap_metrics": {
+          "intersection_pixels": 653,
+          "attention_pixels": 1590,
+          "counterfactual_pixels": 14924,
+          "attention_coverage": 0.4106918238993711,
+          "counterfactual_coverage": 0.043755025462342535,
+          "jaccard_similarity": 0.04117016581552235
+        }
+      },
+      "A_26093": {
+        "coordinates_count": 1598,
+        "overlap_metrics": {
+          "intersection_pixels": 0,
+          "attention_pixels": 1598,
+          "counterfactual_pixels": 13479,
+          "attention_coverage": 0.0,
+          "counterfactual_coverage": 0.0,
+          "jaccard_similarity": 0.0
+        }
+      },
+      "A_26379": {
+        "coordinates_count": 2379,
+        "overlap_metrics": {
+          "intersection_pixels": 40,
+          "attention_pixels": 2379,
+          "counterfactual_pixels": 21077,
+          "attention_coverage": 0.016813787305590584,
+          "counterfactual_coverage": 0.0018978032926887129,
+          "jaccard_similarity": 0.0017082336863682953
+        }
+      },
+      "A_27329": {
+        "coordinates_count": 1598,
+        "overlap_metrics": {
+          "intersection_pixels": 1487,
+          "attention_pixels": 1598,
+          "counterfactual_pixels": 27327,
+          "attention_coverage": 0.9305381727158949,
+          "counterfactual_coverage": 0.054415047389029164,
+          "jaccard_similarity": 0.05419491216560974
+        }
+      },
+      "A_27517": {
+        "coordinates_count": 1593,
+        "overlap_metrics": {
+          "intersection_pixels": 0,
+          "attention_pixels": 1593,
+          "counterfactual_pixels": 12883,
+          "attention_coverage": 0.0,
+          "counterfactual_coverage": 0.0,
+          "jaccard_similarity": 0.0
+        }
+      },
+      "A_27595": {
+        "coordinates_count": 1594,
+        "overlap_metrics": {
+          "intersection_pixels": 0,
+          "attention_pixels": 1594,
+          "counterfactual_pixels": 23146,
+          "attention_coverage": 0.0,
+          "counterfactual_coverage": 0.0,
+          "jaccard_similarity": 0.0
+        }
+      },
+      "A_27671": {
+        "coordinates_count": 1585,
+        "overlap_metrics": {
+          "intersection_pixels": 1250,
+          "attention_pixels": 1585,
+          "counterfactual_pixels": 39143,
+          "attention_coverage": 0.7886435331230284,
+          "counterfactual_coverage": 0.0319341900212043,
+          "jaccard_similarity": 0.031663204822939356
+        }
+      },
+      "A_27674": {
+        "coordinates_count": 1589,
+        "overlap_metrics": {
+          "intersection_pixels": 1534,
+          "attention_pixels": 1589,
+          "counterfactual_pixels": 35308,
+          "attention_coverage": 0.9653870358716173,
+          "counterfactual_coverage": 0.04344624447717231,
+          "jaccard_similarity": 0.043378672623928964
+        }
+      },
+      "A_27678": {
+        "coordinates_count": 1597,
+        "overlap_metrics": {
+          "intersection_pixels": 0,
+          "attention_pixels": 1597,
+          "counterfactual_pixels": 11349,
+          "attention_coverage": 0.0,
+          "counterfactual_coverage": 0.0,
+          "jaccard_similarity": 0.0
+        }
+      },
+      "A_28174": {
+        "coordinates_count": 1604,
+        "overlap_metrics": {
+          "intersection_pixels": 0,
+          "attention_pixels": 1604,
+          "counterfactual_pixels": 8992,
+          "attention_coverage": 0.0,
+          "counterfactual_coverage": 0.0,
+          "jaccard_similarity": 0.0
+        }
+      },
+      "A_28230": {
+        "coordinates_count": 1590,
+        "overlap_metrics": {
+          "intersection_pixels": 0,
+          "attention_pixels": 1590,
+          "counterfactual_pixels": 12074,
+          "attention_coverage": 0.0,
+          "counterfactual_coverage": 0.0,
+          "jaccard_similarity": 0.0
+        }
+      },
+      "A_7112": {
+        "coordinates_count": 9758,
+        "overlap_metrics": {
+          "intersection_pixels": 1090,
+          "attention_pixels": 9758,
+          "counterfactual_pixels": 6138,
+          "attention_coverage": 0.11170321787251486,
+          "counterfactual_coverage": 0.1775822743564679,
+          "jaccard_similarity": 0.07361880318789679
+        }
+      },
+      "A_7220": {
+        "coordinates_count": 1593,
+        "overlap_metrics": {
+          "intersection_pixels": 877,
+          "attention_pixels": 1593,
+          "counterfactual_pixels": 31237,
+          "attention_coverage": 0.5505335844318895,
+          "counterfactual_coverage": 0.02807567948266479,
+          "jaccard_similarity": 0.027446562138140392
+        }
+      },
+      "A_7326": {
+        "coordinates_count": 1582,
+        "overlap_metrics": {
+          "intersection_pixels": 0,
+          "attention_pixels": 1582,
+          "counterfactual_pixels": 18499,
+          "attention_coverage": 0.0,
+          "counterfactual_coverage": 0.0,
+          "jaccard_similarity": 0.0
+        }
+      },
+      "A_7470": {
+        "coordinates_count": 1593,
+        "overlap_metrics": {
+          "intersection_pixels": 0,
+          "attention_pixels": 1593,
+          "counterfactual_pixels": 8342,
+          "attention_coverage": 0.0,
+          "counterfactual_coverage": 0.0,
+          "jaccard_similarity": 0.0
+        }
+      },
+      "A_8424": {
+        "coordinates_count": 1587,
+        "overlap_metrics": {
+          "intersection_pixels": 787,
+          "attention_pixels": 1587,
+          "counterfactual_pixels": 24857,
+          "attention_coverage": 0.4959042218021424,
+          "counterfactual_coverage": 0.031661101500583336,
+          "jaccard_similarity": 0.030673890166426316
+        }
+      },
+      "A_9129": {
+        "coordinates_count": 1586,
+        "overlap_metrics": {
+          "intersection_pixels": 0,
+          "attention_pixels": 1586,
+          "counterfactual_pixels": 18409,
+          "attention_coverage": 0.0,
+          "counterfactual_coverage": 0.0,
+          "jaccard_similarity": 0.0
+        }
+      },
+      "A_9499": {
+        "coordinates_count": 1597,
+        "overlap_metrics": {
+          "intersection_pixels": 655,
+          "attention_pixels": 1597,
+          "counterfactual_pixels": 28771,
+          "attention_coverage": 0.41014402003757044,
+          "counterfactual_coverage": 0.022765979632268604,
+          "jaccard_similarity": 0.02204422306734426
+        }
+      }
+    },
+    "Romstet, Christian": {
+      "A_10723": {
+        "coordinates_count": 1618,
+        "overlap_metrics": {
+          "intersection_pixels": 0,
+          "attention_pixels": 1618,
+          "counterfactual_pixels": 12905,
+          "attention_coverage": 0.0,
+          "counterfactual_coverage": 0.0,
+          "jaccard_similarity": 0.0
+        }
+      },
+      "A_12207": {
+        "coordinates_count": 42765,
+        "overlap_metrics": {
+          "intersection_pixels": 916,
+          "attention_pixels": 42765,
+          "counterfactual_pixels": 2854,
+          "attention_coverage": 0.021419385011107215,
+          "counterfactual_coverage": 0.3209530483531885,
+          "jaccard_similarity": 0.020490794801243765
+        }
+      },
+      "A_13218": {
+        "coordinates_count": 15508,
+        "overlap_metrics": {
+          "intersection_pixels": 764,
+          "attention_pixels": 15508,
+          "counterfactual_pixels": 6585,
+          "attention_coverage": 0.04926489553778695,
+          "counterfactual_coverage": 0.11602126044039483,
+          "jaccard_similarity": 0.03581977589197806
+        }
+      },
+      "A_13452": {
+        "coordinates_count": 86018,
+        "overlap_metrics": {
+          "intersection_pixels": 4634,
+          "attention_pixels": 86018,
+          "counterfactual_pixels": 6885,
+          "attention_coverage": 0.05387244530214606,
+          "counterfactual_coverage": 0.6730573710965868,
+          "jaccard_similarity": 0.05249861219680749
+        }
+      },
+      "A_17605": {
+        "coordinates_count": 37202,
+        "overlap_metrics": {
+          "intersection_pixels": 477,
+          "attention_pixels": 37202,
+          "counterfactual_pixels": 966,
+          "attention_coverage": 0.012821891296166872,
+          "counterfactual_coverage": 0.4937888198757764,
+          "jaccard_similarity": 0.01265554111060996
+        }
+      },
+      "A_202": {
+        "coordinates_count": 4558,
+        "overlap_metrics": {
+          "intersection_pixels": 502,
+          "attention_pixels": 4558,
+          "counterfactual_pixels": 6017,
+          "attention_coverage": 0.11013602457218079,
+          "counterfactual_coverage": 0.08343028087086587,
+          "jaccard_similarity": 0.04983619577087263
+        }
+      },
+      "A_21864": {
+        "coordinates_count": 1626,
+        "overlap_metrics": {
+          "intersection_pixels": 0,
+          "attention_pixels": 1626,
+          "counterfactual_pixels": 3229,
+          "attention_coverage": 0.0,
+          "counterfactual_coverage": 0.0,
+          "jaccard_similarity": 0.0
+        }
+      },
+      "A_23300": {
+        "coordinates_count": 74910,
+        "overlap_metrics": {
+          "intersection_pixels": 1165,
+          "attention_pixels": 74910,
+          "counterfactual_pixels": 7788,
+          "attention_coverage": 0.015551995728207183,
+          "counterfactual_coverage": 0.14958911145351822,
+          "jaccard_similarity": 0.01428869292188439
+        }
+      },
+      "A_24858": {
+        "coordinates_count": 1611,
+        "overlap_metrics": {
+          "intersection_pixels": 0,
+          "attention_pixels": 1611,
+          "counterfactual_pixels": 1244,
+          "attention_coverage": 0.0,
+          "counterfactual_coverage": 0.0,
+          "jaccard_similarity": 0.0
+        }
+      },
+      "A_25138": {
+        "coordinates_count": 29426,
+        "overlap_metrics": {
+          "intersection_pixels": 21,
+          "attention_pixels": 29426,
+          "counterfactual_pixels": 29,
+          "attention_coverage": 0.0007136545911778699,
+          "counterfactual_coverage": 0.7241379310344828,
+          "jaccard_similarity": 0.0007134606237684311
+        }
+      },
+      "A_25371": {
+        "coordinates_count": 112243,
+        "overlap_metrics": {
+          "intersection_pixels": 4006,
+          "attention_pixels": 112243,
+          "counterfactual_pixels": 5413,
+          "attention_coverage": 0.03569042167440286,
+          "counterfactual_coverage": 0.7400702013670792,
+          "jaccard_similarity": 0.03524857017157941
+        }
+      },
+      "A_25922": {
+        "coordinates_count": 94744,
+        "overlap_metrics": {
+          "intersection_pixels": 7690,
+          "attention_pixels": 94744,
+          "counterfactual_pixels": 9775,
+          "attention_coverage": 0.0811660896732247,
+          "counterfactual_coverage": 0.7867007672634271,
+          "jaccard_similarity": 0.07941835607101179
+        }
+      },
+      "A_26100": {
+        "coordinates_count": 10791,
+        "overlap_metrics": {
+          "intersection_pixels": 667,
+          "attention_pixels": 10791,
+          "counterfactual_pixels": 762,
+          "attention_coverage": 0.061810768232786584,
+          "counterfactual_coverage": 0.8753280839895013,
+          "jaccard_similarity": 0.06127135770714679
+        }
+      },
+      "A_26927": {
+        "coordinates_count": 28647,
+        "overlap_metrics": {
+          "intersection_pixels": 77,
+          "attention_pixels": 28647,
+          "counterfactual_pixels": 381,
+          "attention_coverage": 0.002687890529549342,
+          "counterfactual_coverage": 0.2020997375328084,
+          "jaccard_similarity": 0.002659666332769162
+        }
+      },
+      "A_27941": {
+        "coordinates_count": 63375,
+        "overlap_metrics": {
+          "intersection_pixels": 709,
+          "attention_pixels": 63375,
+          "counterfactual_pixels": 1925,
+          "attention_coverage": 0.011187376725838265,
+          "counterfactual_coverage": 0.3683116883116883,
+          "jaccard_similarity": 0.01097676146831602
+        }
+      },
+      "A_2947": {
+        "coordinates_count": 17055,
+        "overlap_metrics": {
+          "intersection_pixels": 348,
+          "attention_pixels": 17055,
+          "counterfactual_pixels": 3802,
+          "attention_coverage": 0.02040457343887423,
+          "counterfactual_coverage": 0.09153077327722252,
+          "jaccard_similarity": 0.016968160319859572
+        }
+      },
+      "A_5475": {
+        "coordinates_count": 16691,
+        "overlap_metrics": {
+          "intersection_pixels": 3041,
+          "attention_pixels": 16691,
+          "counterfactual_pixels": 3153,
+          "attention_coverage": 0.1821939967647235,
+          "counterfactual_coverage": 0.9644782746590549,
+          "jaccard_similarity": 0.18097958697851574
+        }
+      },
+      "A_7537": {
+        "coordinates_count": 19911,
+        "overlap_metrics": {
+          "intersection_pixels": 462,
+          "attention_pixels": 19911,
+          "counterfactual_pixels": 605,
+          "attention_coverage": 0.023203254482446888,
+          "counterfactual_coverage": 0.7636363636363637,
+          "jaccard_similarity": 0.02303779794554702
+        }
+      }
+    },
+    "Kilian, Wolfgang Philipp": {
+      "A_13596": {
+        "coordinates_count": 16724,
+        "overlap_metrics": {
+          "intersection_pixels": 2943,
+          "attention_pixels": 16724,
+          "counterfactual_pixels": 8229,
+          "attention_coverage": 0.17597464721358527,
+          "counterfactual_coverage": 0.35763762304046665,
+          "jaccard_similarity": 0.13371194911403908
+        }
+      },
+      "A_13654": {
+        "coordinates_count": 1647,
+        "overlap_metrics": {
+          "intersection_pixels": 496,
+          "attention_pixels": 1647,
+          "counterfactual_pixels": 29250,
+          "attention_coverage": 0.30115361262902246,
+          "counterfactual_coverage": 0.016957264957264958,
+          "jaccard_similarity": 0.016315252787737246
+        }
+      },
+      "A_14374": {
+        "coordinates_count": 1608,
+        "overlap_metrics": {
+          "intersection_pixels": 0,
+          "attention_pixels": 1608,
+          "counterfactual_pixels": 22982,
+          "attention_coverage": 0.0,
+          "counterfactual_coverage": 0.0,
+          "jaccard_similarity": 0.0
+        }
+      },
+      "A_15272": {
+        "coordinates_count": 1663,
+        "overlap_metrics": {
+          "intersection_pixels": 0,
+          "attention_pixels": 1663,
+          "counterfactual_pixels": 1627,
+          "attention_coverage": 0.0,
+          "counterfactual_coverage": 0.0,
+          "jaccard_similarity": 0.0
+        }
+      },
+      "A_16408": {
+        "coordinates_count": 3850,
+        "overlap_metrics": {
+          "intersection_pixels": 0,
+          "attention_pixels": 3850,
+          "counterfactual_pixels": 1735,
+          "attention_coverage": 0.0,
+          "counterfactual_coverage": 0.0,
+          "jaccard_similarity": 0.0
+        }
+      },
+      "A_16409": {
+        "coordinates_count": 1602,
+        "overlap_metrics": {
+          "intersection_pixels": 0,
+          "attention_pixels": 1602,
+          "counterfactual_pixels": 2306,
+          "attention_coverage": 0.0,
+          "counterfactual_coverage": 0.0,
+          "jaccard_similarity": 0.0
+        }
+      },
+      "A_17710": {
+        "coordinates_count": 23720,
+        "overlap_metrics": {
+          "intersection_pixels": 3219,
+          "attention_pixels": 23720,
+          "counterfactual_pixels": 8943,
+          "attention_coverage": 0.13570826306913997,
+          "counterfactual_coverage": 0.35994632673599464,
+          "jaccard_similarity": 0.10932617850835484
+        }
+      },
+      "A_18296": {
+        "coordinates_count": 103645,
+        "overlap_metrics": {
+          "intersection_pixels": 2198,
+          "attention_pixels": 103645,
+          "counterfactual_pixels": 2198,
+          "attention_coverage": 0.021207004679434607,
+          "counterfactual_coverage": 1.0,
+          "jaccard_similarity": 0.021207004679434607
+        }
+      },
+      "A_18302": {
+        "coordinates_count": 52443,
+        "overlap_metrics": {
+          "intersection_pixels": 1360,
+          "attention_pixels": 52443,
+          "counterfactual_pixels": 1603,
+          "attention_coverage": 0.025932917643918158,
+          "counterfactual_coverage": 0.8484092326887087,
+          "jaccard_similarity": 0.02581330903845424
+        }
+      },
+      "A_18772": {
+        "coordinates_count": 1735,
+        "overlap_metrics": {
+          "intersection_pixels": 0,
+          "attention_pixels": 1735,
+          "counterfactual_pixels": 2182,
+          "attention_coverage": 0.0,
+          "counterfactual_coverage": 0.0,
+          "jaccard_similarity": 0.0
+        }
+      },
+      "A_20365": {
+        "coordinates_count": 1645,
+        "overlap_metrics": {
+          "intersection_pixels": 0,
+          "attention_pixels": 1645,
+          "counterfactual_pixels": 6450,
+          "attention_coverage": 0.0,
+          "counterfactual_coverage": 0.0,
+          "jaccard_similarity": 0.0
+        }
+      },
+      "A_20774": {
+        "coordinates_count": 1602,
+        "overlap_metrics": {
+          "intersection_pixels": 0,
+          "attention_pixels": 1602,
+          "counterfactual_pixels": 7508,
+          "attention_coverage": 0.0,
+          "counterfactual_coverage": 0.0,
+          "jaccard_similarity": 0.0
+        }
+      },
+      "A_21310": {
+        "coordinates_count": 27348,
+        "overlap_metrics": {
+          "intersection_pixels": 2227,
+          "attention_pixels": 27348,
+          "counterfactual_pixels": 5898,
+          "attention_coverage": 0.08143191458241919,
+          "counterfactual_coverage": 0.3775856222448288,
+          "jaccard_similarity": 0.07179470647022793
+        }
+      },
+      "A_21798": {
+        "coordinates_count": 1590,
+        "overlap_metrics": {
+          "intersection_pixels": 0,
+          "attention_pixels": 1590,
+          "counterfactual_pixels": 2324,
+          "attention_coverage": 0.0,
+          "counterfactual_coverage": 0.0,
+          "jaccard_similarity": 0.0
+        }
+      },
+      "A_22499": {
+        "coordinates_count": 83281,
+        "overlap_metrics": {
+          "intersection_pixels": 2479,
+          "attention_pixels": 83281,
+          "counterfactual_pixels": 2969,
+          "attention_coverage": 0.029766693483507644,
+          "counterfactual_coverage": 0.83496126641967,
+          "jaccard_similarity": 0.029592579771042484
+        }
+      },
+      "A_23414": {
+        "coordinates_count": 21622,
+        "overlap_metrics": {
+          "intersection_pixels": 1428,
+          "attention_pixels": 21622,
+          "counterfactual_pixels": 1428,
+          "attention_coverage": 0.06604384423272593,
+          "counterfactual_coverage": 1.0,
+          "jaccard_similarity": 0.06604384423272593
+        }
+      },
+      "A_23503": {
+        "coordinates_count": 71379,
+        "overlap_metrics": {
+          "intersection_pixels": 74,
+          "attention_pixels": 71379,
+          "counterfactual_pixels": 208,
+          "attention_coverage": 0.0010367194833214252,
+          "counterfactual_coverage": 0.3557692307692308,
+          "jaccard_similarity": 0.0010347768937116327
+        }
+      },
+      "A_24136": {
+        "coordinates_count": 106200,
+        "overlap_metrics": {
+          "intersection_pixels": 1244,
+          "attention_pixels": 106200,
+          "counterfactual_pixels": 1277,
+          "attention_coverage": 0.011713747645951036,
+          "counterfactual_coverage": 0.9741581832419733,
+          "jaccard_similarity": 0.011710108911543494
+        }
+      },
+      "A_26503": {
+        "coordinates_count": 75501,
+        "overlap_metrics": {
+          "intersection_pixels": 879,
+          "attention_pixels": 75501,
+          "counterfactual_pixels": 879,
+          "attention_coverage": 0.011642229904239678,
+          "counterfactual_coverage": 1.0,
+          "jaccard_similarity": 0.011642229904239678
+        }
+      },
+      "A_2958": {
+        "coordinates_count": 1686,
+        "overlap_metrics": {
+          "intersection_pixels": 0,
+          "attention_pixels": 1686,
+          "counterfactual_pixels": 3077,
+          "attention_coverage": 0.0,
+          "counterfactual_coverage": 0.0,
+          "jaccard_similarity": 0.0
+        }
+      },
+      "A_475": {
+        "coordinates_count": 40141,
+        "overlap_metrics": {
+          "intersection_pixels": 825,
+          "attention_pixels": 40141,
+          "counterfactual_pixels": 1426,
+          "attention_coverage": 0.020552552253307092,
+          "counterfactual_coverage": 0.5785413744740533,
+          "jaccard_similarity": 0.020249374110254775
+        }
+      },
+      "A_5173": {
+        "coordinates_count": 1644,
+        "overlap_metrics": {
+          "intersection_pixels": 0,
+          "attention_pixels": 1644,
+          "counterfactual_pixels": 9503,
+          "attention_coverage": 0.0,
+          "counterfactual_coverage": 0.0,
+          "jaccard_similarity": 0.0
+        }
+      },
+      "A_6497": {
+        "coordinates_count": 1634,
+        "overlap_metrics": {
+          "intersection_pixels": 0,
+          "attention_pixels": 1634,
+          "counterfactual_pixels": 1131,
+          "attention_coverage": 0.0,
+          "counterfactual_coverage": 0.0,
+          "jaccard_similarity": 0.0
+        }
+      },
+      "A_7591": {
+        "coordinates_count": 76049,
+        "overlap_metrics": {
+          "intersection_pixels": 53,
+          "attention_pixels": 76049,
+          "counterfactual_pixels": 449,
+          "attention_coverage": 0.0006969190916382859,
+          "counterfactual_coverage": 0.11804008908685969,
+          "jaccard_similarity": 0.0006933089149061416
+        }
+      },
+      "A_8755": {
+        "coordinates_count": 2230,
+        "overlap_metrics": {
+          "intersection_pixels": 14,
+          "attention_pixels": 2230,
+          "counterfactual_pixels": 1596,
+          "attention_coverage": 0.006278026905829596,
+          "counterfactual_coverage": 0.008771929824561403,
+          "jaccard_similarity": 0.0036726128016789086
+        }
+      },
+      "A_8782": {
+        "coordinates_count": 77988,
+        "overlap_metrics": {
+          "intersection_pixels": 1758,
+          "attention_pixels": 77988,
+          "counterfactual_pixels": 1758,
+          "attention_coverage": 0.022541929527619634,
+          "counterfactual_coverage": 1.0,
+          "jaccard_similarity": 0.022541929527619634
+        }
+      },
+      "A_9068": {
+        "coordinates_count": 1646,
+        "overlap_metrics": {
+          "intersection_pixels": 0,
+          "attention_pixels": 1646,
+          "counterfactual_pixels": 5421,
+          "attention_coverage": 0.0,
+          "counterfactual_coverage": 0.0,
+          "jaccard_similarity": 0.0
+        }
+      },
+      "A_9082": {
+        "coordinates_count": 16446,
+        "overlap_metrics": {
+          "intersection_pixels": 674,
+          "attention_pixels": 16446,
+          "counterfactual_pixels": 1448,
+          "attention_coverage": 0.04098260975313146,
+          "counterfactual_coverage": 0.4654696132596685,
+          "jaccard_similarity": 0.03914053426248548
+        }
+      }
+    },
+    "Stimmer, Tobias": {
+      "A_10731": {
+        "coordinates_count": 1644,
+        "overlap_metrics": {
+          "intersection_pixels": 0,
+          "attention_pixels": 1644,
+          "counterfactual_pixels": 29479,
+          "attention_coverage": 0.0,
+          "counterfactual_coverage": 0.0,
+          "jaccard_similarity": 0.0
+        }
+      },
+      "A_15815": {
+        "coordinates_count": 2093,
+        "overlap_metrics": {
+          "intersection_pixels": 0,
+          "attention_pixels": 2093,
+          "counterfactual_pixels": 14857,
+          "attention_coverage": 0.0,
+          "counterfactual_coverage": 0.0,
+          "jaccard_similarity": 0.0
+        }
+      },
+      "A_16540": {
+        "coordinates_count": 1646,
+        "overlap_metrics": {
+          "intersection_pixels": 973,
+          "attention_pixels": 1646,
+          "counterfactual_pixels": 43920,
+          "attention_coverage": 0.5911300121506683,
+          "counterfactual_coverage": 0.02215391621129326,
+          "jaccard_similarity": 0.021819568093646984
+        }
+      },
+      "A_18843": {
+        "coordinates_count": 1677,
+        "overlap_metrics": {
+          "intersection_pixels": 0,
+          "attention_pixels": 1677,
+          "counterfactual_pixels": 18915,
+          "attention_coverage": 0.0,
+          "counterfactual_coverage": 0.0,
+          "jaccard_similarity": 0.0
+        }
+      },
+      "A_20424": {
+        "coordinates_count": 1679,
+        "overlap_metrics": {
+          "intersection_pixels": 996,
+          "attention_pixels": 1679,
+          "counterfactual_pixels": 41899,
+          "attention_coverage": 0.593210244192972,
+          "counterfactual_coverage": 0.0237714503926108,
+          "jaccard_similarity": 0.02339016485839087
+        }
+      },
+      "A_21594": {
+        "coordinates_count": 1600,
+        "overlap_metrics": {
+          "intersection_pixels": 0,
+          "attention_pixels": 1600,
+          "counterfactual_pixels": 25692,
+          "attention_coverage": 0.0,
+          "counterfactual_coverage": 0.0,
+          "jaccard_similarity": 0.0
+        }
+      },
+      "A_22079": {
+        "coordinates_count": 1619,
+        "overlap_metrics": {
+          "intersection_pixels": 0,
+          "attention_pixels": 1619,
+          "counterfactual_pixels": 31068,
+          "attention_coverage": 0.0,
+          "counterfactual_coverage": 0.0,
+          "jaccard_similarity": 0.0
+        }
+      },
+      "A_25707": {
+        "coordinates_count": 4054,
+        "overlap_metrics": {
+          "intersection_pixels": 3003,
+          "attention_pixels": 4054,
+          "counterfactual_pixels": 41541,
+          "attention_coverage": 0.7407498766650222,
+          "counterfactual_coverage": 0.0722900267205893,
+          "jaccard_similarity": 0.07050619834710743
+        }
+      },
+      "A_26153": {
+        "coordinates_count": 1628,
+        "overlap_metrics": {
+          "intersection_pixels": 229,
+          "attention_pixels": 1628,
+          "counterfactual_pixels": 42497,
+          "attention_coverage": 0.14066339066339067,
+          "counterfactual_coverage": 0.005388615666988258,
+          "jaccard_similarity": 0.0052168762529615454
+        }
+      },
+      "A_27586": {
+        "coordinates_count": 1646,
+        "overlap_metrics": {
+          "intersection_pixels": 0,
+          "attention_pixels": 1646,
+          "counterfactual_pixels": 19637,
+          "attention_coverage": 0.0,
+          "counterfactual_coverage": 0.0,
+          "jaccard_similarity": 0.0
+        }
+      },
+      "A_27597": {
+        "coordinates_count": 1617,
+        "overlap_metrics": {
+          "intersection_pixels": 0,
+          "attention_pixels": 1617,
+          "counterfactual_pixels": 34954,
+          "attention_coverage": 0.0,
+          "counterfactual_coverage": 0.0,
+          "jaccard_similarity": 0.0
+        }
+      },
+      "A_321": {
+        "coordinates_count": 1667,
+        "overlap_metrics": {
+          "intersection_pixels": 0,
+          "attention_pixels": 1667,
+          "counterfactual_pixels": 30913,
+          "attention_coverage": 0.0,
+          "counterfactual_coverage": 0.0,
+          "jaccard_similarity": 0.0
+        }
+      },
+      "A_404": {
+        "coordinates_count": 1879,
+        "overlap_metrics": {
+          "intersection_pixels": 187,
+          "attention_pixels": 1879,
+          "counterfactual_pixels": 19072,
+          "attention_coverage": 0.09952102182011709,
+          "counterfactual_coverage": 0.00980494966442953,
+          "jaccard_similarity": 0.009005971874397996
+        }
+      },
+      "A_466": {
+        "coordinates_count": 1737,
+        "overlap_metrics": {
+          "intersection_pixels": 104,
+          "attention_pixels": 1737,
+          "counterfactual_pixels": 28422,
+          "attention_coverage": 0.059873344847438115,
+          "counterfactual_coverage": 0.0036591372880163254,
+          "jaccard_similarity": 0.003460322741640326
+        }
+      },
+      "A_7174": {
+        "coordinates_count": 1656,
+        "overlap_metrics": {
+          "intersection_pixels": 0,
+          "attention_pixels": 1656,
+          "counterfactual_pixels": 24149,
+          "attention_coverage": 0.0,
+          "counterfactual_coverage": 0.0,
+          "jaccard_similarity": 0.0
+        }
+      },
+      "A_7691": {
+        "coordinates_count": 1652,
+        "overlap_metrics": {
+          "intersection_pixels": 1437,
+          "attention_pixels": 1652,
+          "counterfactual_pixels": 28714,
+          "attention_coverage": 0.8698547215496368,
+          "counterfactual_coverage": 0.05004527408232918,
+          "jaccard_similarity": 0.04967333817276781
+        }
+      },
+      "A_9535": {
+        "coordinates_count": 1649,
+        "overlap_metrics": {
+          "intersection_pixels": 972,
+          "attention_pixels": 1649,
+          "counterfactual_pixels": 53860,
+          "attention_coverage": 0.5894481503941783,
+          "counterfactual_coverage": 0.01804678796880802,
+          "jaccard_similarity": 0.01782276252819187
+        }
+      },
+      "A_9617": {
+        "coordinates_count": 1649,
+        "overlap_metrics": {
+          "intersection_pixels": 270,
+          "attention_pixels": 1649,
+          "counterfactual_pixels": 29050,
+          "attention_coverage": 0.1637355973317162,
+          "counterfactual_coverage": 0.00929432013769363,
+          "jaccard_similarity": 0.008873114463176575
+        }
+      }
+    },
+    "Bernigeroth, Martin": {
+      "A_12217": {
+        "coordinates_count": 2562,
+        "overlap_metrics": {
+          "intersection_pixels": 172,
+          "attention_pixels": 2562,
+          "counterfactual_pixels": 11287,
+          "attention_coverage": 0.06713505074160812,
+          "counterfactual_coverage": 0.01523877026667848,
+          "jaccard_similarity": 0.012575857278642978
+        }
+      },
+      "A_13254": {
+        "coordinates_count": 2800,
+        "overlap_metrics": {
+          "intersection_pixels": 0,
+          "attention_pixels": 2800,
+          "counterfactual_pixels": 3517,
+          "attention_coverage": 0.0,
+          "counterfactual_coverage": 0.0,
+          "jaccard_similarity": 0.0
+        }
+      },
+      "A_167": {
+        "coordinates_count": 1625,
+        "overlap_metrics": {
+          "intersection_pixels": 317,
+          "attention_pixels": 1625,
+          "counterfactual_pixels": 35970,
+          "attention_coverage": 0.19507692307692306,
+          "counterfactual_coverage": 0.008812899638587711,
+          "jaccard_similarity": 0.008503675089865336
+        }
+      },
+      "A_16938": {
+        "coordinates_count": 3927,
+        "overlap_metrics": {
+          "intersection_pixels": 24,
+          "attention_pixels": 3927,
+          "counterfactual_pixels": 14145,
+          "attention_coverage": 0.006111535523300229,
+          "counterfactual_coverage": 0.001696712619300106,
+          "jaccard_similarity": 0.0013297872340425532
+        }
+      },
+      "A_17996": {
+        "coordinates_count": 31840,
+        "overlap_metrics": {
+          "intersection_pixels": 154,
+          "attention_pixels": 31840,
+          "counterfactual_pixels": 696,
+          "attention_coverage": 0.0048366834170854274,
+          "counterfactual_coverage": 0.22126436781609196,
+          "jaccard_similarity": 0.004755728491137051
+        }
+      },
+      "A_19211": {
+        "coordinates_count": 1614,
+        "overlap_metrics": {
+          "intersection_pixels": 107,
+          "attention_pixels": 1614,
+          "counterfactual_pixels": 42763,
+          "attention_coverage": 0.06629491945477076,
+          "counterfactual_coverage": 0.002502163084909852,
+          "jaccard_similarity": 0.0024169866726903096
+        }
+      },
+      "A_19744": {
+        "coordinates_count": 1604,
+        "overlap_metrics": {
+          "intersection_pixels": 0,
+          "attention_pixels": 1604,
+          "counterfactual_pixels": 26488,
+          "attention_coverage": 0.0,
+          "counterfactual_coverage": 0.0,
+          "jaccard_similarity": 0.0
+        }
+      },
+      "A_22800": {
+        "coordinates_count": 1676,
+        "overlap_metrics": {
+          "intersection_pixels": 0,
+          "attention_pixels": 1676,
+          "counterfactual_pixels": 2775,
+          "attention_coverage": 0.0,
+          "counterfactual_coverage": 0.0,
+          "jaccard_similarity": 0.0
+        }
+      },
+      "A_25405": {
+        "coordinates_count": 35705,
+        "overlap_metrics": {
+          "intersection_pixels": 2041,
+          "attention_pixels": 35705,
+          "counterfactual_pixels": 15028,
+          "attention_coverage": 0.057162862344209496,
+          "counterfactual_coverage": 0.13581314878892733,
+          "jaccard_similarity": 0.041916536597387664
+        }
+      },
+      "A_27494": {
+        "coordinates_count": 72859,
+        "overlap_metrics": {
+          "intersection_pixels": 8924,
+          "attention_pixels": 72859,
+          "counterfactual_pixels": 16313,
+          "attention_coverage": 0.12248315239023319,
+          "counterfactual_coverage": 0.547048366333599,
+          "jaccard_similarity": 0.11120526368258399
+        }
+      },
+      "A_27814": {
+        "coordinates_count": 1619,
+        "overlap_metrics": {
+          "intersection_pixels": 0,
+          "attention_pixels": 1619,
+          "counterfactual_pixels": 36670,
+          "attention_coverage": 0.0,
+          "counterfactual_coverage": 0.0,
+          "jaccard_similarity": 0.0
+        }
+      },
+      "A_419": {
+        "coordinates_count": 21292,
+        "overlap_metrics": {
+          "intersection_pixels": 819,
+          "attention_pixels": 21292,
+          "counterfactual_pixels": 1881,
+          "attention_coverage": 0.038465151230509115,
+          "counterfactual_coverage": 0.4354066985645933,
+          "jaccard_similarity": 0.03663773821240047
+        }
+      },
+      "A_447": {
+        "coordinates_count": 1600,
+        "overlap_metrics": {
+          "intersection_pixels": 0,
+          "attention_pixels": 1600,
+          "counterfactual_pixels": 23786,
+          "attention_coverage": 0.0,
+          "counterfactual_coverage": 0.0,
+          "jaccard_similarity": 0.0
+        }
+      },
+      "A_4507": {
+        "coordinates_count": 57324,
+        "overlap_metrics": {
+          "intersection_pixels": 1670,
+          "attention_pixels": 57324,
+          "counterfactual_pixels": 2343,
+          "attention_coverage": 0.029132649501081572,
+          "counterfactual_coverage": 0.7127614169867691,
+          "jaccard_similarity": 0.028794592823766747
+        }
+      },
+      "A_6634": {
+        "coordinates_count": 4754,
+        "overlap_metrics": {
+          "intersection_pixels": 268,
+          "attention_pixels": 4754,
+          "counterfactual_pixels": 10548,
+          "attention_coverage": 0.05637358014303744,
+          "counterfactual_coverage": 0.02540766021994691,
+          "jaccard_similarity": 0.017826260476253825
+        }
+      }
+    },
+    "Fennitzer, Georg": {
+      "A_10608": {
+        "coordinates_count": 31584,
+        "overlap_metrics": {
+          "intersection_pixels": 1976,
+          "attention_pixels": 31584,
+          "counterfactual_pixels": 5503,
+          "attention_coverage": 0.06256332320162107,
+          "counterfactual_coverage": 0.35907686716336545,
+          "jaccard_similarity": 0.056278659109680725
+        }
+      },
+      "A_10763": {
+        "coordinates_count": 17138,
+        "overlap_metrics": {
+          "intersection_pixels": 7024,
+          "attention_pixels": 17138,
+          "counterfactual_pixels": 10655,
+          "attention_coverage": 0.4098494573462481,
+          "counterfactual_coverage": 0.6592210229938996,
+          "jaccard_similarity": 0.3381963503298185
+        }
+      },
+      "A_10818": {
+        "coordinates_count": 62733,
+        "overlap_metrics": {
+          "intersection_pixels": 2479,
+          "attention_pixels": 62733,
+          "counterfactual_pixels": 3062,
+          "attention_coverage": 0.039516681810211535,
+          "counterfactual_coverage": 0.8096015676028739,
+          "jaccard_similarity": 0.03915282077200076
+        }
+      },
+      "A_10969": {
+        "coordinates_count": 35095,
+        "overlap_metrics": {
+          "intersection_pixels": 4990,
+          "attention_pixels": 35095,
+          "counterfactual_pixels": 20148,
+          "attention_coverage": 0.1421854965094743,
+          "counterfactual_coverage": 0.24766726225928132,
+          "jaccard_similarity": 0.09929755437486319
+        }
+      },
+      "A_1221": {
+        "coordinates_count": 39112,
+        "overlap_metrics": {
+          "intersection_pixels": 6581,
+          "attention_pixels": 39112,
+          "counterfactual_pixels": 16399,
+          "attention_coverage": 0.16826038044589894,
+          "counterfactual_coverage": 0.401304957619367,
+          "jaccard_similarity": 0.13449826282444308
+        }
+      },
+      "A_12286": {
+        "coordinates_count": 36100,
+        "overlap_metrics": {
+          "intersection_pixels": 1162,
+          "attention_pixels": 36100,
+          "counterfactual_pixels": 8942,
+          "attention_coverage": 0.03218836565096953,
+          "counterfactual_coverage": 0.12994855736971594,
+          "jaccard_similarity": 0.026481312670920694
+        }
+      },
+      "A_12288": {
+        "coordinates_count": 26336,
+        "overlap_metrics": {
+          "intersection_pixels": 2383,
+          "attention_pixels": 26336,
+          "counterfactual_pixels": 9965,
+          "attention_coverage": 0.09048450789793439,
+          "counterfactual_coverage": 0.239136979427998,
+          "jaccard_similarity": 0.07025768028775281
+        }
+      },
+      "A_1244": {
+        "coordinates_count": 102942,
+        "overlap_metrics": {
+          "intersection_pixels": 10608,
+          "attention_pixels": 102942,
+          "counterfactual_pixels": 17190,
+          "attention_coverage": 0.10304831847059509,
+          "counterfactual_coverage": 0.6171029668411867,
+          "jaccard_similarity": 0.09685548372959352
+        }
+      },
+      "A_12900": {
+        "coordinates_count": 60336,
+        "overlap_metrics": {
+          "intersection_pixels": 3641,
+          "attention_pixels": 60336,
+          "counterfactual_pixels": 9428,
+          "attention_coverage": 0.06034539909838239,
+          "counterfactual_coverage": 0.3861900721255834,
+          "jaccard_similarity": 0.05506404730577862
+        }
+      },
+      "A_14207": {
+        "coordinates_count": 33352,
+        "overlap_metrics": {
+          "intersection_pixels": 880,
+          "attention_pixels": 33352,
+          "counterfactual_pixels": 16305,
+          "attention_coverage": 0.026385224274406333,
+          "counterfactual_coverage": 0.05397117448635388,
+          "jaccard_similarity": 0.018041289952231584
+        }
+      },
+      "A_14271": {
+        "coordinates_count": 14609,
+        "overlap_metrics": {
+          "intersection_pixels": 1480,
+          "attention_pixels": 14609,
+          "counterfactual_pixels": 10551,
+          "attention_coverage": 0.10130741323841468,
+          "counterfactual_coverage": 0.14027106435408965,
+          "jaccard_similarity": 0.0625
+        }
+      },
+      "A_14742": {
+        "coordinates_count": 59803,
+        "overlap_metrics": {
+          "intersection_pixels": 2095,
+          "attention_pixels": 59803,
+          "counterfactual_pixels": 4440,
+          "attention_coverage": 0.03503168737354313,
+          "counterfactual_coverage": 0.47184684684684686,
+          "jaccard_similarity": 0.03370985389714874
+        }
+      },
+      "A_15511": {
+        "coordinates_count": 72371,
+        "overlap_metrics": {
+          "intersection_pixels": 8568,
+          "attention_pixels": 72371,
+          "counterfactual_pixels": 10811,
+          "attention_coverage": 0.1183899628304155,
+          "counterfactual_coverage": 0.7925261307927112,
+          "jaccard_similarity": 0.11483099686385934
+        }
+      },
+      "A_16040": {
+        "coordinates_count": 15869,
+        "overlap_metrics": {
+          "intersection_pixels": 1339,
+          "attention_pixels": 15869,
+          "counterfactual_pixels": 3669,
+          "attention_coverage": 0.08437834772197365,
+          "counterfactual_coverage": 0.3649495775415645,
+          "jaccard_similarity": 0.07357547117973515
+        }
+      },
+      "A_16398": {
+        "coordinates_count": 47954,
+        "overlap_metrics": {
+          "intersection_pixels": 1634,
+          "attention_pixels": 47954,
+          "counterfactual_pixels": 3233,
+          "attention_coverage": 0.03407432122450682,
+          "counterfactual_coverage": 0.5054129291679554,
+          "jaccard_similarity": 0.03297479466429883
+        }
+      },
+      "A_16405": {
+        "coordinates_count": 25854,
+        "overlap_metrics": {
+          "intersection_pixels": 3779,
+          "attention_pixels": 25854,
+          "counterfactual_pixels": 8056,
+          "attention_coverage": 0.1461669374178077,
+          "counterfactual_coverage": 0.46909136047666333,
+          "jaccard_similarity": 0.12541900368391357
+        }
+      },
+      "A_17295": {
+        "coordinates_count": 37013,
+        "overlap_metrics": {
+          "intersection_pixels": 8757,
+          "attention_pixels": 37013,
+          "counterfactual_pixels": 20586,
+          "attention_coverage": 0.23659254856401804,
+          "counterfactual_coverage": 0.4253861847857767,
+          "jaccard_similarity": 0.1792924122681299
+        }
+      },
+      "A_18182": {
+        "coordinates_count": 41016,
+        "overlap_metrics": {
+          "intersection_pixels": 3414,
+          "attention_pixels": 41016,
+          "counterfactual_pixels": 4855,
+          "attention_coverage": 0.08323581041544763,
+          "counterfactual_coverage": 0.7031925849639546,
+          "jaccard_similarity": 0.08041076854228985
+        }
+      },
+      "A_19035": {
+        "coordinates_count": 33442,
+        "overlap_metrics": {
+          "intersection_pixels": 4721,
+          "attention_pixels": 33442,
+          "counterfactual_pixels": 25148,
+          "attention_coverage": 0.14116978649602296,
+          "counterfactual_coverage": 0.18772864641323367,
+          "jaccard_similarity": 0.08763853050919825
+        }
+      },
+      "A_19241": {
+        "coordinates_count": 15846,
+        "overlap_metrics": {
+          "intersection_pixels": 1409,
+          "attention_pixels": 15846,
+          "counterfactual_pixels": 9510,
+          "attention_coverage": 0.08891833901300013,
+          "counterfactual_coverage": 0.14815983175604627,
+          "jaccard_similarity": 0.05883826784148328
+        }
+      },
+      "A_19549": {
+        "coordinates_count": 10364,
+        "overlap_metrics": {
+          "intersection_pixels": 1656,
+          "attention_pixels": 10364,
+          "counterfactual_pixels": 14266,
+          "attention_coverage": 0.15978386723272867,
+          "counterfactual_coverage": 0.1160801906631151,
+          "jaccard_similarity": 0.07208148341603551
+        }
+      },
+      "A_19697": {
+        "coordinates_count": 12626,
+        "overlap_metrics": {
+          "intersection_pixels": 2041,
+          "attention_pixels": 12626,
+          "counterfactual_pixels": 7685,
+          "attention_coverage": 0.1616505623316965,
+          "counterfactual_coverage": 0.2655823031880286,
+          "jaccard_similarity": 0.11171319102353586
+        }
+      },
+      "A_19701": {
+        "coordinates_count": 57495,
+        "overlap_metrics": {
+          "intersection_pixels": 6228,
+          "attention_pixels": 57495,
+          "counterfactual_pixels": 17722,
+          "attention_coverage": 0.10832246282285417,
+          "counterfactual_coverage": 0.3514276041078885,
+          "jaccard_similarity": 0.09027526127353636
+        }
+      },
+      "A_19707": {
+        "coordinates_count": 6607,
+        "overlap_metrics": {
+          "intersection_pixels": 98,
+          "attention_pixels": 6607,
+          "counterfactual_pixels": 1114,
+          "attention_coverage": 0.014832753140608446,
+          "counterfactual_coverage": 0.08797127468581688,
+          "jaccard_similarity": 0.012855831037649219
+        }
+      },
+      "A_19735": {
+        "coordinates_count": 61108,
+        "overlap_metrics": {
+          "intersection_pixels": 5284,
+          "attention_pixels": 61108,
+          "counterfactual_pixels": 9143,
+          "attention_coverage": 0.08646985664724749,
+          "counterfactual_coverage": 0.5779284698676583,
+          "jaccard_similarity": 0.08133360013545339
+        }
+      },
+      "A_20919": {
+        "coordinates_count": 25272,
+        "overlap_metrics": {
+          "intersection_pixels": 3297,
+          "attention_pixels": 25272,
+          "counterfactual_pixels": 8317,
+          "attention_coverage": 0.13046058879392214,
+          "counterfactual_coverage": 0.3964169772754599,
+          "jaccard_similarity": 0.10884061798494651
+        }
+      },
+      "A_21329": {
+        "coordinates_count": 87487,
+        "overlap_metrics": {
+          "intersection_pixels": 5022,
+          "attention_pixels": 87487,
+          "counterfactual_pixels": 5022,
+          "attention_coverage": 0.057402814132385384,
+          "counterfactual_coverage": 1.0,
+          "jaccard_similarity": 0.057402814132385384
+        }
+      },
+      "A_21333": {
+        "coordinates_count": 65272,
+        "overlap_metrics": {
+          "intersection_pixels": 3647,
+          "attention_pixels": 65272,
+          "counterfactual_pixels": 8156,
+          "attention_coverage": 0.05587388160313764,
+          "counterfactual_coverage": 0.4471554683668465,
+          "jaccard_similarity": 0.05226351012453247
+        }
+      },
+      "A_21335": {
+        "coordinates_count": 15551,
+        "overlap_metrics": {
+          "intersection_pixels": 201,
+          "attention_pixels": 15551,
+          "counterfactual_pixels": 4262,
+          "attention_coverage": 0.012925213812616552,
+          "counterfactual_coverage": 0.04716095729704364,
+          "jaccard_similarity": 0.010248827248623292
+        }
+      },
+      "A_21756": {
+        "coordinates_count": 35440,
+        "overlap_metrics": {
+          "intersection_pixels": 3087,
+          "attention_pixels": 35440,
+          "counterfactual_pixels": 10584,
+          "attention_coverage": 0.08710496613995486,
+          "counterfactual_coverage": 0.2916666666666667,
+          "jaccard_similarity": 0.07189603372382794
+        }
+      },
+      "A_21779": {
+        "coordinates_count": 18967,
+        "overlap_metrics": {
+          "intersection_pixels": 4370,
+          "attention_pixels": 18967,
+          "counterfactual_pixels": 8229,
+          "attention_coverage": 0.23040016871408237,
+          "counterfactual_coverage": 0.5310487301008628,
+          "jaccard_similarity": 0.1914483483746605
+        }
+      },
+      "A_22133": {
+        "coordinates_count": 104886,
+        "overlap_metrics": {
+          "intersection_pixels": 12519,
+          "attention_pixels": 104886,
+          "counterfactual_pixels": 15657,
+          "attention_coverage": 0.11935816028831303,
+          "counterfactual_coverage": 0.799578463307147,
+          "jaccard_similarity": 0.11589091313041547
+        }
+      },
+      "A_22575": {
+        "coordinates_count": 7673,
+        "overlap_metrics": {
+          "intersection_pixels": 287,
+          "attention_pixels": 7673,
+          "counterfactual_pixels": 2703,
+          "attention_coverage": 0.037403883748208,
+          "counterfactual_coverage": 0.10617832038475768,
+          "jaccard_similarity": 0.028446823272871444
+        }
+      },
+      "A_22893": {
+        "coordinates_count": 1619,
+        "overlap_metrics": {
+          "intersection_pixels": 425,
+          "attention_pixels": 1619,
+          "counterfactual_pixels": 5089,
+          "attention_coverage": 0.2625077208153181,
+          "counterfactual_coverage": 0.08351346040479465,
+          "jaccard_similarity": 0.06764284577431164
+        }
+      },
+      "A_22895": {
+        "coordinates_count": 67769,
+        "overlap_metrics": {
+          "intersection_pixels": 6375,
+          "attention_pixels": 67769,
+          "counterfactual_pixels": 6792,
+          "attention_coverage": 0.09406955982824006,
+          "counterfactual_coverage": 0.9386042402826855,
+          "jaccard_similarity": 0.09349426568503798
+        }
+      },
+      "A_23501": {
+        "coordinates_count": 47389,
+        "overlap_metrics": {
+          "intersection_pixels": 3314,
+          "attention_pixels": 47389,
+          "counterfactual_pixels": 5508,
+          "attention_coverage": 0.06993184072253054,
+          "counterfactual_coverage": 0.6016702977487292,
+          "jaccard_similarity": 0.06683742411713692
+        }
+      },
+      "A_24290": {
+        "coordinates_count": 57323,
+        "overlap_metrics": {
+          "intersection_pixels": 956,
+          "attention_pixels": 57323,
+          "counterfactual_pixels": 956,
+          "attention_coverage": 0.016677424419517473,
+          "counterfactual_coverage": 1.0,
+          "jaccard_similarity": 0.016677424419517473
+        }
+      },
+      "A_24951": {
+        "coordinates_count": 92767,
+        "overlap_metrics": {
+          "intersection_pixels": 6441,
+          "attention_pixels": 92767,
+          "counterfactual_pixels": 10199,
+          "attention_coverage": 0.06943201785117553,
+          "counterfactual_coverage": 0.6315325031865869,
+          "jaccard_similarity": 0.06672882672882673
+        }
+      },
+      "A_25256": {
+        "coordinates_count": 27758,
+        "overlap_metrics": {
+          "intersection_pixels": 1852,
+          "attention_pixels": 27758,
+          "counterfactual_pixels": 2859,
+          "attention_coverage": 0.06671950428705238,
+          "counterfactual_coverage": 0.6477789436866037,
+          "jaccard_similarity": 0.06438379975664871
+        }
+      },
+      "A_27160": {
+        "coordinates_count": 95707,
+        "overlap_metrics": {
+          "intersection_pixels": 11766,
+          "attention_pixels": 95707,
+          "counterfactual_pixels": 12312,
+          "attention_coverage": 0.12293771615451325,
+          "counterfactual_coverage": 0.9556530214424951,
+          "jaccard_similarity": 0.12224034575545698
+        }
+      },
+      "A_27583": {
+        "coordinates_count": 120474,
+        "overlap_metrics": {
+          "intersection_pixels": 9908,
+          "attention_pixels": 120474,
+          "counterfactual_pixels": 12002,
+          "attention_coverage": 0.08224181151119744,
+          "counterfactual_coverage": 0.8255290784869188,
+          "jaccard_similarity": 0.0808367600026108
+        }
+      },
+      "A_27584": {
+        "coordinates_count": 89277,
+        "overlap_metrics": {
+          "intersection_pixels": 10161,
+          "attention_pixels": 89277,
+          "counterfactual_pixels": 26389,
+          "attention_coverage": 0.11381430827648778,
+          "counterfactual_coverage": 0.3850467998029482,
+          "jaccard_similarity": 0.09630823183735368
+        }
+      },
+      "A_2768": {
+        "coordinates_count": 22897,
+        "overlap_metrics": {
+          "intersection_pixels": 3009,
+          "attention_pixels": 22897,
+          "counterfactual_pixels": 8797,
+          "attention_coverage": 0.13141459579857623,
+          "counterfactual_coverage": 0.3420484255996362,
+          "jaccard_similarity": 0.10489803032944048
+        }
+      },
+      "A_4975": {
+        "coordinates_count": 42963,
+        "overlap_metrics": {
+          "intersection_pixels": 1407,
+          "attention_pixels": 42963,
+          "counterfactual_pixels": 1446,
+          "attention_coverage": 0.03274910969904336,
+          "counterfactual_coverage": 0.9730290456431535,
+          "jaccard_similarity": 0.03271940839960932
+        }
+      },
+      "A_4984": {
+        "coordinates_count": 68216,
+        "overlap_metrics": {
+          "intersection_pixels": 7585,
+          "attention_pixels": 68216,
+          "counterfactual_pixels": 7982,
+          "attention_coverage": 0.11119092295062742,
+          "counterfactual_coverage": 0.9502630919569031,
+          "jaccard_similarity": 0.11054756387273548
+        }
+      },
+      "A_5016": {
+        "coordinates_count": 17772,
+        "overlap_metrics": {
+          "intersection_pixels": 3127,
+          "attention_pixels": 17772,
+          "counterfactual_pixels": 7570,
+          "attention_coverage": 0.1759509340535674,
+          "counterfactual_coverage": 0.4130779392338177,
+          "jaccard_similarity": 0.14076074724285392
+        }
+      },
+      "A_5028": {
+        "coordinates_count": 53344,
+        "overlap_metrics": {
+          "intersection_pixels": 8315,
+          "attention_pixels": 53344,
+          "counterfactual_pixels": 13139,
+          "attention_coverage": 0.155875074985003,
+          "counterfactual_coverage": 0.632848770834919,
+          "jaccard_similarity": 0.14294801265300508
+        }
+      },
+      "A_6366": {
+        "coordinates_count": 36208,
+        "overlap_metrics": {
+          "intersection_pixels": 3554,
+          "attention_pixels": 36208,
+          "counterfactual_pixels": 6233,
+          "attention_coverage": 0.09815510384445426,
+          "counterfactual_coverage": 0.5701909193004974,
+          "jaccard_similarity": 0.09139301051765371
+        }
+      },
+      "A_7714": {
+        "coordinates_count": 94674,
+        "overlap_metrics": {
+          "intersection_pixels": 12758,
+          "attention_pixels": 94674,
+          "counterfactual_pixels": 24637,
+          "attention_coverage": 0.13475716669835436,
+          "counterfactual_coverage": 0.5178390226082721,
+          "jaccard_similarity": 0.11973384137471493
+        }
+      },
+      "A_8110": {
+        "coordinates_count": 73070,
+        "overlap_metrics": {
+          "intersection_pixels": 13189,
+          "attention_pixels": 73070,
+          "counterfactual_pixels": 27629,
+          "attention_coverage": 0.18049815245654852,
+          "counterfactual_coverage": 0.47736074414564406,
+          "jaccard_similarity": 0.15071420409096103
+        }
+      },
+      "A_8196": {
+        "coordinates_count": 18105,
+        "overlap_metrics": {
+          "intersection_pixels": 549,
+          "attention_pixels": 18105,
+          "counterfactual_pixels": 1096,
+          "attention_coverage": 0.03032311516155758,
+          "counterfactual_coverage": 0.5009124087591241,
+          "jaccard_similarity": 0.029433840874973194
+        }
+      },
+      "A_8207": {
+        "coordinates_count": 40185,
+        "overlap_metrics": {
+          "intersection_pixels": 2241,
+          "attention_pixels": 40185,
+          "counterfactual_pixels": 10084,
+          "attention_coverage": 0.05576707726763718,
+          "counterfactual_coverage": 0.22223324077746925,
+          "jaccard_similarity": 0.0466602815024569
+        }
+      },
+      "A_8231": {
+        "coordinates_count": 33247,
+        "overlap_metrics": {
+          "intersection_pixels": 5161,
+          "attention_pixels": 33247,
+          "counterfactual_pixels": 15772,
+          "attention_coverage": 0.1552320510121214,
+          "counterfactual_coverage": 0.3272254628455491,
+          "jaccard_similarity": 0.11767522458844452
+        }
+      },
+      "A_8308": {
+        "coordinates_count": 67621,
+        "overlap_metrics": {
+          "intersection_pixels": 4058,
+          "attention_pixels": 67621,
+          "counterfactual_pixels": 5585,
+          "attention_coverage": 0.06001094334600198,
+          "counterfactual_coverage": 0.7265890778871978,
+          "jaccard_similarity": 0.058685717591253544
+        }
+      },
+      "A_8317": {
+        "coordinates_count": 51254,
+        "overlap_metrics": {
+          "intersection_pixels": 2357,
+          "attention_pixels": 51254,
+          "counterfactual_pixels": 7437,
+          "attention_coverage": 0.04598665470012096,
+          "counterfactual_coverage": 0.31692886916767515,
+          "jaccard_similarity": 0.04183974154152022
+        }
+      },
+      "A_8703": {
+        "coordinates_count": 31792,
+        "overlap_metrics": {
+          "intersection_pixels": 3489,
+          "attention_pixels": 31792,
+          "counterfactual_pixels": 13091,
+          "attention_coverage": 0.10974458983392048,
+          "counterfactual_coverage": 0.2665189825070659,
+          "jaccard_similarity": 0.08428757790984201
+        }
+      },
+      "A_9178": {
+        "coordinates_count": 25250,
+        "overlap_metrics": {
+          "intersection_pixels": 2930,
+          "attention_pixels": 25250,
+          "counterfactual_pixels": 17866,
+          "attention_coverage": 0.11603960396039605,
+          "counterfactual_coverage": 0.1639986566662935,
+          "jaccard_similarity": 0.07291096401731946
+        }
+      },
+      "A_9257": {
+        "coordinates_count": 29253,
+        "overlap_metrics": {
+          "intersection_pixels": 3513,
+          "attention_pixels": 29253,
+          "counterfactual_pixels": 4696,
+          "attention_coverage": 0.12009024715413803,
+          "counterfactual_coverage": 0.748083475298126,
+          "jaccard_similarity": 0.11542252595610461
+        }
+      }
+    },
+    "Graff, Anton": {
+      "A_10080": {
+        "coordinates_count": 75535,
+        "overlap_metrics": {
+          "intersection_pixels": 4280,
+          "attention_pixels": 75535,
+          "counterfactual_pixels": 9315,
+          "attention_coverage": 0.05666247434963924,
+          "counterfactual_coverage": 0.4594739667203435,
+          "jaccard_similarity": 0.05312150924661785
+        }
+      },
+      "A_10222": {
+        "coordinates_count": 81701,
+        "overlap_metrics": {
+          "intersection_pixels": 4091,
+          "attention_pixels": 81701,
+          "counterfactual_pixels": 6510,
+          "attention_coverage": 0.05007282652599111,
+          "counterfactual_coverage": 0.6284178187403994,
+          "jaccard_similarity": 0.048632905373276275
+        }
+      },
+      "A_12376": {
+        "coordinates_count": 65478,
+        "overlap_metrics": {
+          "intersection_pixels": 3444,
+          "attention_pixels": 65478,
+          "counterfactual_pixels": 3457,
+          "attention_coverage": 0.05259781911481719,
+          "counterfactual_coverage": 0.9962395140295054,
+          "jaccard_similarity": 0.05258737841840864
+        }
+      },
+      "A_13812": {
+        "coordinates_count": 40974,
+        "overlap_metrics": {
+          "intersection_pixels": 887,
+          "attention_pixels": 40974,
+          "counterfactual_pixels": 2728,
+          "attention_coverage": 0.02164787426172695,
+          "counterfactual_coverage": 0.3251466275659824,
+          "jaccard_similarity": 0.020717038421114095
+        }
+      },
+      "A_15295": {
+        "coordinates_count": 78948,
+        "overlap_metrics": {
+          "intersection_pixels": 5318,
+          "attention_pixels": 78948,
+          "counterfactual_pixels": 7908,
+          "attention_coverage": 0.06736079444697776,
+          "counterfactual_coverage": 0.6724835609509358,
+          "jaccard_similarity": 0.06522112389315411
+        }
+      },
+      "A_15576": {
+        "coordinates_count": 31476,
+        "overlap_metrics": {
+          "intersection_pixels": 1248,
+          "attention_pixels": 31476,
+          "counterfactual_pixels": 3976,
+          "attention_coverage": 0.03964925657643919,
+          "counterfactual_coverage": 0.31388329979879276,
+          "jaccard_similarity": 0.036486960589404746
+        }
+      },
+      "A_1668": {
+        "coordinates_count": 16508,
+        "overlap_metrics": {
+          "intersection_pixels": 6,
+          "attention_pixels": 16508,
+          "counterfactual_pixels": 2555,
+          "attention_coverage": 0.000363460140537921,
+          "counterfactual_coverage": 0.0023483365949119373,
+          "jaccard_similarity": 0.0003148449388676077
+        }
+      },
+      "A_16924": {
+        "coordinates_count": 16747,
+        "overlap_metrics": {
+          "intersection_pixels": 905,
+          "attention_pixels": 16747,
+          "counterfactual_pixels": 9049,
+          "attention_coverage": 0.05403952946796441,
+          "counterfactual_coverage": 0.10001105094485578,
+          "jaccard_similarity": 0.036358523160981884
+        }
+      },
+      "A_17109": {
+        "coordinates_count": 85857,
+        "overlap_metrics": {
+          "intersection_pixels": 4696,
+          "attention_pixels": 85857,
+          "counterfactual_pixels": 7989,
+          "attention_coverage": 0.05469559849517221,
+          "counterfactual_coverage": 0.5878082363249468,
+          "jaccard_similarity": 0.0526752664049355
+        }
+      },
+      "A_17199": {
+        "coordinates_count": 95000,
+        "overlap_metrics": {
+          "intersection_pixels": 8190,
+          "attention_pixels": 95000,
+          "counterfactual_pixels": 10349,
+          "attention_coverage": 0.08621052631578947,
+          "counterfactual_coverage": 0.7913808097400715,
+          "jaccard_similarity": 0.08429481571444745
+        }
+      },
+      "A_17413": {
+        "coordinates_count": 109742,
+        "overlap_metrics": {
+          "intersection_pixels": 1515,
+          "attention_pixels": 109742,
+          "counterfactual_pixels": 1515,
+          "attention_coverage": 0.013805106522571121,
+          "counterfactual_coverage": 1.0,
+          "jaccard_similarity": 0.013805106522571121
+        }
+      },
+      "A_19110": {
+        "coordinates_count": 31455,
+        "overlap_metrics": {
+          "intersection_pixels": 1519,
+          "attention_pixels": 31455,
+          "counterfactual_pixels": 2687,
+          "attention_coverage": 0.048291209664600224,
+          "counterfactual_coverage": 0.5653144771120209,
+          "jaccard_similarity": 0.04656224136345523
+        }
+      },
+      "A_21527": {
+        "coordinates_count": 10393,
+        "overlap_metrics": {
+          "intersection_pixels": 84,
+          "attention_pixels": 10393,
+          "counterfactual_pixels": 84,
+          "attention_coverage": 0.008082363129029154,
+          "counterfactual_coverage": 1.0,
+          "jaccard_similarity": 0.008082363129029154
+        }
+      },
+      "A_2438": {
+        "coordinates_count": 90053,
+        "overlap_metrics": {
+          "intersection_pixels": 8505,
+          "attention_pixels": 90053,
+          "counterfactual_pixels": 9132,
+          "attention_coverage": 0.09444438275237915,
+          "counterfactual_coverage": 0.9313403416557161,
+          "jaccard_similarity": 0.0937913542126158
+        }
+      },
+      "A_2630": {
+        "coordinates_count": 99870,
+        "overlap_metrics": {
+          "intersection_pixels": 2277,
+          "attention_pixels": 99870,
+          "counterfactual_pixels": 2289,
+          "attention_coverage": 0.022799639531390806,
+          "counterfactual_coverage": 0.9947575360419397,
+          "jaccard_similarity": 0.022796900342404038
+        }
+      },
+      "A_6735": {
+        "coordinates_count": 24945,
+        "overlap_metrics": {
+          "intersection_pixels": 11,
+          "attention_pixels": 24945,
+          "counterfactual_pixels": 3859,
+          "attention_coverage": 0.00044097013429545,
+          "counterfactual_coverage": 0.0028504793988079814,
+          "jaccard_similarity": 0.000382037300732817
+        }
+      },
+      "A_68": {
+        "coordinates_count": 109028,
+        "overlap_metrics": {
+          "intersection_pixels": 1248,
+          "attention_pixels": 109028,
+          "counterfactual_pixels": 1841,
+          "attention_coverage": 0.011446600873170195,
+          "counterfactual_coverage": 0.6778924497555676,
+          "jaccard_similarity": 0.011384679942711707
+        }
+      },
+      "A_7462": {
+        "coordinates_count": 72718,
+        "overlap_metrics": {
+          "intersection_pixels": 3410,
+          "attention_pixels": 72718,
+          "counterfactual_pixels": 3457,
+          "attention_coverage": 0.04689347891856212,
+          "counterfactual_coverage": 0.986404396875904,
+          "jaccard_similarity": 0.04686318972033258
+        }
+      },
+      "A_7711": {
+        "coordinates_count": 1709,
+        "overlap_metrics": {
+          "intersection_pixels": 0,
+          "attention_pixels": 1709,
+          "counterfactual_pixels": 4440,
+          "attention_coverage": 0.0,
+          "counterfactual_coverage": 0.0,
+          "jaccard_similarity": 0.0
+        }
+      },
+      "A_7898": {
+        "coordinates_count": 1587,
+        "overlap_metrics": {
+          "intersection_pixels": 0,
+          "attention_pixels": 1587,
+          "counterfactual_pixels": 4108,
+          "attention_coverage": 0.0,
+          "counterfactual_coverage": 0.0,
+          "jaccard_similarity": 0.0
+        }
+      },
+      "A_7973": {
+        "coordinates_count": 112860,
+        "overlap_metrics": {
+          "intersection_pixels": 6495,
+          "attention_pixels": 112860,
+          "counterfactual_pixels": 6545,
+          "attention_coverage": 0.0575491759702286,
+          "counterfactual_coverage": 0.9923605805958747,
+          "jaccard_similarity": 0.05752369143565672
+        }
+      },
+      "A_8583": {
+        "coordinates_count": 15341,
+        "overlap_metrics": {
+          "intersection_pixels": 5,
+          "attention_pixels": 15341,
+          "counterfactual_pixels": 901,
+          "attention_coverage": 0.00032592399452447687,
+          "counterfactual_coverage": 0.005549389567147614,
+          "jaccard_similarity": 0.00030793865861920307
+        }
+      },
+      "A_9978": {
+        "coordinates_count": 101643,
+        "overlap_metrics": {
+          "intersection_pixels": 6684,
+          "attention_pixels": 101643,
+          "counterfactual_pixels": 9878,
+          "attention_coverage": 0.06575957026061804,
+          "counterfactual_coverage": 0.6766551933589795,
+          "jaccard_similarity": 0.06375611663820979
+        }
+      }
+    }
+  }
+}

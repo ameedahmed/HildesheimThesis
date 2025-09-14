@@ -1,0 +1,5 @@
+torch>=1.7.0
+numpy>=1.19.0
+opencv-python>=4.5.0
+matplotlib>=3.3.0
+typing-extensions>=3.7.4 
