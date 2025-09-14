@@ -1,0 +1,26 @@
+{
+    "0": [
+        "/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/dataset_resized_train_val_test_combi/train/train_Ukiyo_e_preprocessed_384_dataset",
+        "Ukiyo"
+    ],
+    "1": [
+        "/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/dataset_resized_train_val_test_combi/train/train_academicism_preprocessed_384_dataset",
+        "academicism"
+    ],
+    "2": [
+        "/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/dataset_resized_train_val_test_combi/train/train_baroque_preprocessed_384_dataset",
+        "baroque"
+    ],
+    "3": [
+        "/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/dataset_resized_train_val_test_combi/train/train_neoclassicism_preprocessed_384_dataset",
+        "neoclassicism"
+    ],
+    "4": [
+        "/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/dataset_resized_train_val_test_combi/train/train_orientalism_preprocessed_384_dataset",
+        "orientalism"
+    ],
+    "5": [
+        "/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/dataset_resized_train_val_test_combi/train/train_realism_preprocessed_384_dataset",
+        "realism"
+    ]
+}

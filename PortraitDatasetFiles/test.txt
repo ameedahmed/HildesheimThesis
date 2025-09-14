@@ -1,0 +1,432 @@
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Fennitzer, Georg_ogdataset/A_22895.jpg	3
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Fennitzer, Georg_ogdataset/A_19701.jpg	3
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Fennitzer, Georg_ogdataset/A_11262.jpg	3
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Fennitzer, Georg_ogdataset/A_19549.jpg	3
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Fennitzer, Georg_ogdataset/A_8231.jpg	3
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Fennitzer, Georg_ogdataset/A_24290.jpg	3
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Fennitzer, Georg_ogdataset/A_22133.jpg	3
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Fennitzer, Georg_ogdataset/A_27160.jpg	3
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Fennitzer, Georg_ogdataset/A_4984.jpg	3
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Fennitzer, Georg_ogdataset/A_14271.jpg	3
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Fennitzer, Georg_ogdataset/A_10763.jpg	3
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Fennitzer, Georg_ogdataset/A_21329.jpg	3
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Fennitzer, Georg_ogdataset/A_1221.jpg	3
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Fennitzer, Georg_ogdataset/A_5028.jpg	3
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Fennitzer, Georg_ogdataset/A_19697.jpg	3
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Fennitzer, Georg_ogdataset/A_10236.jpg	3
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Fennitzer, Georg_ogdataset/A_3066.jpg	3
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Fennitzer, Georg_ogdataset/A_9257.jpg	3
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Fennitzer, Georg_ogdataset/A_19735.jpg	3
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Fennitzer, Georg_ogdataset/A_21756.jpg	3
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Fennitzer, Georg_ogdataset/A_10818.jpg	3
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Fennitzer, Georg_ogdataset/A_19707.jpg	3
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Fennitzer, Georg_ogdataset/A_23501.jpg	3
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Fennitzer, Georg_ogdataset/A_3725.jpg	3
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Fennitzer, Georg_ogdataset/A_1244.jpg	3
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Fennitzer, Georg_ogdataset/A_22893.jpg	3
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Fennitzer, Georg_ogdataset/A_19379.jpg	3
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Fennitzer, Georg_ogdataset/A_10608.jpg	3
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Fennitzer, Georg_ogdataset/A_20953.jpg	3
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Fennitzer, Georg_ogdataset/A_12900.jpg	3
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Fennitzer, Georg_ogdataset/A_2768.jpg	3
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Fennitzer, Georg_ogdataset/A_16040.jpg	3
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Fennitzer, Georg_ogdataset/A_27584.jpg	3
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Fennitzer, Georg_ogdataset/A_16970.jpg	3
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Fennitzer, Georg_ogdataset/A_10969.jpg	3
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Fennitzer, Georg_ogdataset/A_27583.jpg	3
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Fennitzer, Georg_ogdataset/A_24951.jpg	3
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Fennitzer, Georg_ogdataset/A_16684.jpg	3
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Fennitzer, Georg_ogdataset/A_5016.jpg	3
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Fennitzer, Georg_ogdataset/A_8196.jpg	3
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Fennitzer, Georg_ogdataset/A_8308.jpg	3
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Fennitzer, Georg_ogdataset/A_20919.jpg	3
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Fennitzer, Georg_ogdataset/A_16405.jpg	3
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Fennitzer, Georg_ogdataset/A_8703.jpg	3
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Fennitzer, Georg_ogdataset/A_19035.jpg	3
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Fennitzer, Georg_ogdataset/A_24411.jpg	3
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Fennitzer, Georg_ogdataset/A_8317.jpg	3
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Fennitzer, Georg_ogdataset/A_21333.jpg	3
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Fennitzer, Georg_ogdataset/A_21783.jpg	3
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Fennitzer, Georg_ogdataset/A_25256.jpg	3
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Fennitzer, Georg_ogdataset/A_9178.jpg	3
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Fennitzer, Georg_ogdataset/A_7715.jpg	3
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Fennitzer, Georg_ogdataset/A_19241.jpg	3
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Fennitzer, Georg_ogdataset/A_6366.jpg	3
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Fennitzer, Georg_ogdataset/A_18182.jpg	3
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Fennitzer, Georg_ogdataset/A_9451.jpg	3
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Fennitzer, Georg_ogdataset/A_4975.jpg	3
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Fennitzer, Georg_ogdataset/A_22575.jpg	3
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Fennitzer, Georg_ogdataset/A_21779.jpg	3
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Fennitzer, Georg_ogdataset/A_12288.jpg	3
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Fennitzer, Georg_ogdataset/A_17355.jpg	3
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Fennitzer, Georg_ogdataset/A_20706.jpg	3
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Fennitzer, Georg_ogdataset/A_7714.jpg	3
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Fennitzer, Georg_ogdataset/A_8207.jpg	3
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Fennitzer, Georg_ogdataset/A_8110.jpg	3
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Fennitzer, Georg_ogdataset/A_12286.jpg	3
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Fennitzer, Georg_ogdataset/A_16398.jpg	3
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Fennitzer, Georg_ogdataset/A_14207.jpg	3
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Fennitzer, Georg_ogdataset/A_21335.jpg	3
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Fennitzer, Georg_ogdataset/A_14742.jpg	3
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Fennitzer, Georg_ogdataset/A_17295.jpg	3
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Fennitzer, Georg_ogdataset/A_15511.jpg	3
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Stimmer, Tobias_ogdataset/A_25707.jpg	8
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Stimmer, Tobias_ogdataset/A_7198.jpg	8
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Stimmer, Tobias_ogdataset/A_16540.jpg	8
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Stimmer, Tobias_ogdataset/A_15815.jpg	8
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Stimmer, Tobias_ogdataset/A_27586.jpg	8
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Stimmer, Tobias_ogdataset/A_27597.jpg	8
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Stimmer, Tobias_ogdataset/A_466.jpg	8
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Stimmer, Tobias_ogdataset/A_18843.jpg	8
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Stimmer, Tobias_ogdataset/A_7174.jpg	8
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Stimmer, Tobias_ogdataset/A_404.jpg	8
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Stimmer, Tobias_ogdataset/A_110.jpg	8
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Stimmer, Tobias_ogdataset/A_9617.jpg	8
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Stimmer, Tobias_ogdataset/A_9535.jpg	8
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Stimmer, Tobias_ogdataset/A_22716.jpg	8
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Stimmer, Tobias_ogdataset/A_25666.jpg	8
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Stimmer, Tobias_ogdataset/A_26153.jpg	8
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Stimmer, Tobias_ogdataset/A_21594.jpg	8
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Stimmer, Tobias_ogdataset/A_2979.jpg	8
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Stimmer, Tobias_ogdataset/A_10731.jpg	8
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Stimmer, Tobias_ogdataset/A_27208.jpg	8
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Stimmer, Tobias_ogdataset/A_321.jpg	8
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Stimmer, Tobias_ogdataset/A_20424.jpg	8
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Stimmer, Tobias_ogdataset/A_27023.jpg	8
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Stimmer, Tobias_ogdataset/A_7691.jpg	8
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Stimmer, Tobias_ogdataset/A_22079.jpg	8
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Stimmer, Tobias_ogdataset/A_28047.jpg	8
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Stimmer, Tobias_ogdataset/A_2770.jpg	8
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bernigeroth, Martin_ogdataset/A_15431.jpg	1
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bernigeroth, Martin_ogdataset/A_12848.jpg	1
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bernigeroth, Martin_ogdataset/A_12675.jpg	1
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bernigeroth, Martin_ogdataset/A_3718.jpg	1
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bernigeroth, Martin_ogdataset/A_11928.jpg	1
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bernigeroth, Martin_ogdataset/A_25635.jpg	1
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bernigeroth, Martin_ogdataset/A_3950.jpg	1
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bernigeroth, Martin_ogdataset/A_3192.jpg	1
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bernigeroth, Martin_ogdataset/A_20110.jpg	1
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bernigeroth, Martin_ogdataset/A_22831.jpg	1
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bernigeroth, Martin_ogdataset/A_18630.jpg	1
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bernigeroth, Martin_ogdataset/A_27689.jpg	1
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bernigeroth, Martin_ogdataset/A_3029.jpg	1
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bernigeroth, Martin_ogdataset/A_5746.jpg	1
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bernigeroth, Martin_ogdataset/A_18404.jpg	1
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bernigeroth, Martin_ogdataset/A_17852.jpg	1
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bernigeroth, Martin_ogdataset/A_26582.jpg	1
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bernigeroth, Martin_ogdataset/A_23423.jpg	1
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bernigeroth, Martin_ogdataset/A_1586.jpg	1
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bernigeroth, Martin_ogdataset/A_19137.jpg	1
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bernigeroth, Martin_ogdataset/A_11049.jpg	1
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bernigeroth, Martin_ogdataset/A_5891.jpg	1
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bernigeroth, Martin_ogdataset/A_16329.jpg	1
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bernigeroth, Martin_ogdataset/A_20878.jpg	1
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bernigeroth, Martin_ogdataset/A_26365.jpg	1
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bernigeroth, Martin_ogdataset/A_25270.jpg	1
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bernigeroth, Martin_ogdataset/A_10083.jpg	1
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bernigeroth, Martin_ogdataset/A_17927.jpg	1
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bernigeroth, Martin_ogdataset/A_24402.jpg	1
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bernigeroth, Martin_ogdataset/A_7665.jpg	1
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bernigeroth, Martin_ogdataset/A_12270.jpg	1
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bernigeroth, Martin_ogdataset/A_1890.jpg	1
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bernigeroth, Martin_ogdataset/A_6173.jpg	1
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bernigeroth, Martin_ogdataset/A_6264.jpg	1
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bernigeroth, Martin_ogdataset/A_23194.jpg	1
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bernigeroth, Martin_ogdataset/A_8765.jpg	1
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bernigeroth, Martin_ogdataset/A_5194.jpg	1
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bernigeroth, Martin_ogdataset/A_25680.jpg	1
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bernigeroth, Martin_ogdataset/A_11969.jpg	1
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bernigeroth, Martin_ogdataset/A_15018.jpg	1
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bernigeroth, Martin_ogdataset/A_11349.jpg	1
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bernigeroth, Martin_ogdataset/A_21285.jpg	1
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bernigeroth, Martin_ogdataset/A_18301.jpg	1
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bernigeroth, Martin_ogdataset/A_23459.jpg	1
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bernigeroth, Martin_ogdataset/A_6365.jpg	1
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bernigeroth, Martin_ogdataset/A_10113.jpg	1
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bernigeroth, Martin_ogdataset/A_24272.jpg	1
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bernigeroth, Martin_ogdataset/A_11960.jpg	1
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bernigeroth, Martin_ogdataset/A_20813.jpg	1
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bernigeroth, Martin_ogdataset/A_4643.jpg	1
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bernigeroth, Martin_ogdataset/A_12260.jpg	1
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bernigeroth, Martin_ogdataset/A_20736.jpg	1
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bernigeroth, Martin_ogdataset/A_26782.jpg	1
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bernigeroth, Martin_ogdataset/A_15087.jpg	1
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bernigeroth, Martin_ogdataset/A_21266.jpg	1
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bernigeroth, Martin_ogdataset/A_398.jpg	1
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bernigeroth, Martin_ogdataset/A_21857.jpg	1
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bernigeroth, Martin_ogdataset/A_10130.jpg	1
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bernigeroth, Martin_ogdataset/A_10145.jpg	1
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bernigeroth, Martin_ogdataset/A_3996.jpg	1
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bernigeroth, Martin_ogdataset/A_26046.jpg	1
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bernigeroth, Martin_ogdataset/A_16709.jpg	1
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bernigeroth, Martin_ogdataset/A_10918.jpg	1
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bernigeroth, Martin_ogdataset/A_7999.jpg	1
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bernigeroth, Martin_ogdataset/A_53.jpg	1
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bernigeroth, Martin_ogdataset/A_16422.jpg	1
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bernigeroth, Martin_ogdataset/A_22612.jpg	1
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bernigeroth, Martin_ogdataset/A_8441.jpg	1
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bernigeroth, Martin_ogdataset/A_3203.jpg	1
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bernigeroth, Martin_ogdataset/A_26235.jpg	1
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bernigeroth, Martin_ogdataset/A_24782.jpg	1
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bernigeroth, Martin_ogdataset/A_15009.jpg	1
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bernigeroth, Martin_ogdataset/A_21612.jpg	1
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bernigeroth, Martin_ogdataset/A_20499.jpg	1
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bernigeroth, Martin_ogdataset/A_12484.jpg	1
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bernigeroth, Martin_ogdataset/A_18277.jpg	1
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bernigeroth, Martin_ogdataset/A_22810.jpg	1
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bernigeroth, Martin_ogdataset/A_411.jpg	1
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bernigeroth, Martin_ogdataset/A_21007.jpg	1
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bernigeroth, Martin_ogdataset/A_1256.jpg	1
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bernigeroth, Martin_ogdataset/A_21248.jpg	1
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bernigeroth, Martin_ogdataset/A_22202.jpg	1
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bernigeroth, Martin_ogdataset/A_12006.jpg	1
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bernigeroth, Martin_ogdataset/A_11037.jpg	1
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bernigeroth, Martin_ogdataset/A_12258.jpg	1
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bernigeroth, Martin_ogdataset/A_8482.jpg	1
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bernigeroth, Martin_ogdataset/A_11105.jpg	1
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bernigeroth, Martin_ogdataset/A_12529.jpg	1
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bernigeroth, Martin_ogdataset/A_1777.jpg	1
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bernigeroth, Martin_ogdataset/A_22213.jpg	1
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bernigeroth, Martin_ogdataset/A_8502.jpg	1
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bernigeroth, Martin_ogdataset/A_22609.jpg	1
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bernigeroth, Martin_ogdataset/A_18600.jpg	1
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bernigeroth, Martin_ogdataset/A_7100.jpg	1
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bernigeroth, Martin_ogdataset/A_10364.jpg	1
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bernigeroth, Martin_ogdataset/A_28224.jpg	1
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bernigeroth, Martin_ogdataset/A_4282.jpg	1
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bernigeroth, Martin_ogdataset/A_23156.jpg	1
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bernigeroth, Martin_ogdataset/A_20908.jpg	1
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bernigeroth, Martin_ogdataset/A_1820.jpg	1
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bernigeroth, Martin_ogdataset/A_19744.jpg	1
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bernigeroth, Martin_ogdataset/A_447.jpg	1
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bernigeroth, Martin_ogdataset/A_4507.jpg	1
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bernigeroth, Martin_ogdataset/A_10752.jpg	1
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bernigeroth, Martin_ogdataset/A_9204.jpg	1
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bernigeroth, Martin_ogdataset/A_419.jpg	1
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bernigeroth, Martin_ogdataset/A_6634.jpg	1
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bernigeroth, Martin_ogdataset/A_20587.jpg	1
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bernigeroth, Martin_ogdataset/A_23332.jpg	1
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bernigeroth, Martin_ogdataset/A_21249.jpg	1
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bernigeroth, Martin_ogdataset/A_13254.jpg	1
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bernigeroth, Martin_ogdataset/A_25703.jpg	1
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bernigeroth, Martin_ogdataset/A_26382.jpg	1
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bernigeroth, Martin_ogdataset/A_167.jpg	1
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bernigeroth, Martin_ogdataset/A_974.jpg	1
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bernigeroth, Martin_ogdataset/A_15451.jpg	1
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bernigeroth, Martin_ogdataset/A_18858.jpg	1
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bernigeroth, Martin_ogdataset/A_16938.jpg	1
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bernigeroth, Martin_ogdataset/A_19211.jpg	1
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bernigeroth, Martin_ogdataset/A_27494.jpg	1
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bernigeroth, Martin_ogdataset/A_12217.jpg	1
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bernigeroth, Martin_ogdataset/A_17996.jpg	1
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bernigeroth, Martin_ogdataset/A_25405.jpg	1
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bernigeroth, Martin_ogdataset/A_22800.jpg	1
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bernigeroth, Martin_ogdataset/A_27814.jpg	1
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bernigeroth, Martin_ogdataset/A_23976.jpg	1
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Aubry, Peter II_ogdataset/A_6058.jpg	0
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Aubry, Peter II_ogdataset/A_27555.jpg	0
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Aubry, Peter II_ogdataset/A_16783.jpg	0
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Aubry, Peter II_ogdataset/A_21554.jpg	0
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Aubry, Peter II_ogdataset/A_10200.jpg	0
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Aubry, Peter II_ogdataset/A_5908.jpg	0
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Aubry, Peter II_ogdataset/A_27971.jpg	0
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Aubry, Peter II_ogdataset/A_6942.jpg	0
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Aubry, Peter II_ogdataset/A_17026.jpg	0
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Aubry, Peter II_ogdataset/A_221.jpg	0
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Aubry, Peter II_ogdataset/A_25594.jpg	0
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Aubry, Peter II_ogdataset/A_15320.jpg	0
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Aubry, Peter II_ogdataset/A_2333.jpg	0
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Aubry, Peter II_ogdataset/A_16770.jpg	0
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Aubry, Peter II_ogdataset/A_27346.jpg	0
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Aubry, Peter II_ogdataset/A_4785.jpg	0
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Aubry, Peter II_ogdataset/A_13279.jpg	0
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Aubry, Peter II_ogdataset/A_16721.jpg	0
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Aubry, Peter II_ogdataset/A_27362.jpg	0
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Aubry, Peter II_ogdataset/A_7403.jpg	0
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Aubry, Peter II_ogdataset/A_12052.jpg	0
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Aubry, Peter II_ogdataset/A_25226.jpg	0
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Aubry, Peter II_ogdataset/A_20621.jpg	0
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Aubry, Peter II_ogdataset/A_9686.jpg	0
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Aubry, Peter II_ogdataset/A_18815.jpg	0
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Aubry, Peter II_ogdataset/A_11322.jpg	0
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Aubry, Peter II_ogdataset/A_24479.jpg	0
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Aubry, Peter II_ogdataset/A_27935.jpg	0
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Aubry, Peter II_ogdataset/A_27037.jpg	0
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Aubry, Peter II_ogdataset/A_16986.jpg	0
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Aubry, Peter II_ogdataset/A_1552.jpg	0
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Aubry, Peter II_ogdataset/A_25863.jpg	0
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Aubry, Peter II_ogdataset/A_27710.jpg	0
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Aubry, Peter II_ogdataset/A_4361.jpg	0
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Aubry, Peter II_ogdataset/A_22826.jpg	0
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Graff, Anton_ogdataset/A_19110.jpg	4
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Graff, Anton_ogdataset/A_7898.jpg	4
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Graff, Anton_ogdataset/A_21527.jpg	4
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Graff, Anton_ogdataset/A_15295.jpg	4
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Graff, Anton_ogdataset/A_9978.jpg	4
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Graff, Anton_ogdataset/A_10080.jpg	4
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Graff, Anton_ogdataset/A_10222.jpg	4
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Graff, Anton_ogdataset/A_7711.jpg	4
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Graff, Anton_ogdataset/A_7973.jpg	4
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Graff, Anton_ogdataset/A_2630.jpg	4
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Graff, Anton_ogdataset/A_7462.jpg	4
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Graff, Anton_ogdataset/A_2438.jpg	4
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Graff, Anton_ogdataset/A_15683.jpg	4
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Graff, Anton_ogdataset/A_17109.jpg	4
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Graff, Anton_ogdataset/A_13812.jpg	4
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Graff, Anton_ogdataset/A_12376.jpg	4
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Graff, Anton_ogdataset/A_1668.jpg	4
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Graff, Anton_ogdataset/A_17413.jpg	4
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Graff, Anton_ogdataset/A_6735.jpg	4
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Graff, Anton_ogdataset/A_15576.jpg	4
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Graff, Anton_ogdataset/A_17199.jpg	4
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Graff, Anton_ogdataset/A_8583.jpg	4
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Graff, Anton_ogdataset/A_16924.jpg	4
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Graff, Anton_ogdataset/A_68.jpg	4
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Kilian, Wolfgang Philipp_ogdataset/A_9352.jpg	6
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Kilian, Wolfgang Philipp_ogdataset/A_5173.jpg	6
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Kilian, Wolfgang Philipp_ogdataset/A_13596.jpg	6
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Kilian, Wolfgang Philipp_ogdataset/A_22499.jpg	6
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Kilian, Wolfgang Philipp_ogdataset/A_9665.jpg	6
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Kilian, Wolfgang Philipp_ogdataset/A_8782.jpg	6
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Kilian, Wolfgang Philipp_ogdataset/A_18302.jpg	6
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Kilian, Wolfgang Philipp_ogdataset/A_16346.jpg	6
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Kilian, Wolfgang Philipp_ogdataset/A_27484.jpg	6
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Kilian, Wolfgang Philipp_ogdataset/A_23414.jpg	6
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Kilian, Wolfgang Philipp_ogdataset/A_475.jpg	6
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Kilian, Wolfgang Philipp_ogdataset/A_9068.jpg	6
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Kilian, Wolfgang Philipp_ogdataset/A_14374.jpg	6
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Kilian, Wolfgang Philipp_ogdataset/A_18772.jpg	6
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Kilian, Wolfgang Philipp_ogdataset/A_9082.jpg	6
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Kilian, Wolfgang Philipp_ogdataset/A_21310.jpg	6
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Kilian, Wolfgang Philipp_ogdataset/A_6497.jpg	6
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Kilian, Wolfgang Philipp_ogdataset/A_2958.jpg	6
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Kilian, Wolfgang Philipp_ogdataset/A_23503.jpg	6
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Kilian, Wolfgang Philipp_ogdataset/A_8755.jpg	6
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Kilian, Wolfgang Philipp_ogdataset/A_20774.jpg	6
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Kilian, Wolfgang Philipp_ogdataset/A_15935.jpg	6
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Kilian, Wolfgang Philipp_ogdataset/A_23443.jpg	6
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Kilian, Wolfgang Philipp_ogdataset/A_17710.jpg	6
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Kilian, Wolfgang Philipp_ogdataset/A_26279.jpg	6
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Kilian, Wolfgang Philipp_ogdataset/A_24136.jpg	6
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Kilian, Wolfgang Philipp_ogdataset/A_18296.jpg	6
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Kilian, Wolfgang Philipp_ogdataset/A_18777.jpg	6
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Kilian, Wolfgang Philipp_ogdataset/A_22504.jpg	6
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Kilian, Wolfgang Philipp_ogdataset/A_15272.jpg	6
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Kilian, Wolfgang Philipp_ogdataset/A_16409.jpg	6
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Kilian, Wolfgang Philipp_ogdataset/A_26503.jpg	6
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Kilian, Wolfgang Philipp_ogdataset/A_21798.jpg	6
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Kilian, Wolfgang Philipp_ogdataset/A_7633.jpg	6
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Kilian, Wolfgang Philipp_ogdataset/A_7591.jpg	6
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Kilian, Wolfgang Philipp_ogdataset/A_7949.jpg	6
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Kilian, Wolfgang Philipp_ogdataset/A_13654.jpg	6
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Kilian, Wolfgang Philipp_ogdataset/A_20365.jpg	6
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Kilian, Wolfgang Philipp_ogdataset/A_16408.jpg	6
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Kilian, Wolfgang Philipp_ogdataset/A_6106.jpg	6
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Kilian, Wolfgang Philipp_ogdataset/A_9867.jpg	6
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Romstet, Christian_ogdataset/A_17605.jpg	7
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Romstet, Christian_ogdataset/A_21864.jpg	7
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Romstet, Christian_ogdataset/A_10723.jpg	7
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Romstet, Christian_ogdataset/A_27941.jpg	7
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Romstet, Christian_ogdataset/A_5475.jpg	7
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Romstet, Christian_ogdataset/A_26100.jpg	7
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Romstet, Christian_ogdataset/A_25922.jpg	7
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Romstet, Christian_ogdataset/A_25138.jpg	7
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Romstet, Christian_ogdataset/A_3923.jpg	7
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Romstet, Christian_ogdataset/A_13218.jpg	7
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Romstet, Christian_ogdataset/A_25371.jpg	7
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Romstet, Christian_ogdataset/A_13452.jpg	7
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Romstet, Christian_ogdataset/A_26927.jpg	7
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Romstet, Christian_ogdataset/A_24858.jpg	7
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Romstet, Christian_ogdataset/A_7537.jpg	7
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Romstet, Christian_ogdataset/A_15425.jpg	7
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Romstet, Christian_ogdataset/A_2947.jpg	7
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Romstet, Christian_ogdataset/A_12207.jpg	7
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Romstet, Christian_ogdataset/A_16655.jpg	7
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Romstet, Christian_ogdataset/A_202.jpg	7
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Romstet, Christian_ogdataset/A_23300.jpg	7
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Romstet, Christian_ogdataset/A_15418.jpg	7
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Kilian, Lucas_ogdataset/A_20327.jpg	5
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Kilian, Lucas_ogdataset/A_18021.jpg	5
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Kilian, Lucas_ogdataset/A_24450.jpg	5
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Kilian, Lucas_ogdataset/A_26379.jpg	5
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Kilian, Lucas_ogdataset/A_20028.jpg	5
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Kilian, Lucas_ogdataset/A_27671.jpg	5
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Kilian, Lucas_ogdataset/A_27678.jpg	5
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Kilian, Lucas_ogdataset/A_27595.jpg	5
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Kilian, Lucas_ogdataset/A_28174.jpg	5
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Kilian, Lucas_ogdataset/A_9129.jpg	5
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Kilian, Lucas_ogdataset/A_26093.jpg	5
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Kilian, Lucas_ogdataset/A_1654.jpg	5
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Kilian, Lucas_ogdataset/A_27340.jpg	5
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Kilian, Lucas_ogdataset/A_9499.jpg	5
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Kilian, Lucas_ogdataset/A_7470.jpg	5
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Kilian, Lucas_ogdataset/A_16417.jpg	5
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Kilian, Lucas_ogdataset/A_27674.jpg	5
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Kilian, Lucas_ogdataset/A_22386.jpg	5
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Kilian, Lucas_ogdataset/A_7112.jpg	5
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Kilian, Lucas_ogdataset/A_7326.jpg	5
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Kilian, Lucas_ogdataset/A_19573.jpg	5
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Kilian, Lucas_ogdataset/A_27329.jpg	5
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Kilian, Lucas_ogdataset/A_23432.jpg	5
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Kilian, Lucas_ogdataset/A_17218.jpg	5
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Kilian, Lucas_ogdataset/A_17347.jpg	5
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Kilian, Lucas_ogdataset/A_8424.jpg	5
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Kilian, Lucas_ogdataset/A_7220.jpg	5
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Kilian, Lucas_ogdataset/A_27517.jpg	5
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Kilian, Lucas_ogdataset/A_28230.jpg	5
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Kilian, Lucas_ogdataset/A_25221.jpg	5
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Kilian, Lucas_ogdataset/A_18148.jpg	5
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Kilian, Lucas_ogdataset/A_2308.jpg	5
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Kilian, Lucas_ogdataset/A_2306.jpg	5
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bock, Christoph Wilhelm_ogdataset/A_19565.jpg	2
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bock, Christoph Wilhelm_ogdataset/A_7606.jpg	2
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bock, Christoph Wilhelm_ogdataset/A_5535.jpg	2
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bock, Christoph Wilhelm_ogdataset/A_21038.jpg	2
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bock, Christoph Wilhelm_ogdataset/A_5489.jpg	2
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bock, Christoph Wilhelm_ogdataset/A_17961.jpg	2
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bock, Christoph Wilhelm_ogdataset/A_19192.jpg	2
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bock, Christoph Wilhelm_ogdataset/A_26074.jpg	2
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bock, Christoph Wilhelm_ogdataset/A_1242.jpg	2
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bock, Christoph Wilhelm_ogdataset/A_4099.jpg	2
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bock, Christoph Wilhelm_ogdataset/A_4855.jpg	2
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bock, Christoph Wilhelm_ogdataset/A_16434.jpg	2
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bock, Christoph Wilhelm_ogdataset/A_20274.jpg	2
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bock, Christoph Wilhelm_ogdataset/A_20010.jpg	2
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bock, Christoph Wilhelm_ogdataset/A_11118.jpg	2
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bock, Christoph Wilhelm_ogdataset/A_11854.jpg	2
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bock, Christoph Wilhelm_ogdataset/A_13676.jpg	2
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bock, Christoph Wilhelm_ogdataset/A_17309.jpg	2
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bock, Christoph Wilhelm_ogdataset/A_16236.jpg	2
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bock, Christoph Wilhelm_ogdataset/A_20969.jpg	2
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bock, Christoph Wilhelm_ogdataset/A_7169.jpg	2
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bock, Christoph Wilhelm_ogdataset/A_24937.jpg	2
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bock, Christoph Wilhelm_ogdataset/A_23153.jpg	2
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bock, Christoph Wilhelm_ogdataset/A_14701.jpg	2
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bock, Christoph Wilhelm_ogdataset/A_20168.jpg	2
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bock, Christoph Wilhelm_ogdataset/A_26083.jpg	2
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bock, Christoph Wilhelm_ogdataset/A_17369.jpg	2
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bock, Christoph Wilhelm_ogdataset/A_11698.jpg	2
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bock, Christoph Wilhelm_ogdataset/A_21086.jpg	2
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bock, Christoph Wilhelm_ogdataset/A_4366.jpg	2
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bock, Christoph Wilhelm_ogdataset/A_19666.jpg	2
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bock, Christoph Wilhelm_ogdataset/A_19869.jpg	2
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bock, Christoph Wilhelm_ogdataset/A_14186.jpg	2
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bock, Christoph Wilhelm_ogdataset/A_28439.jpg	2
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bock, Christoph Wilhelm_ogdataset/A_3380.jpg	2
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bock, Christoph Wilhelm_ogdataset/A_7132.jpg	2
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bock, Christoph Wilhelm_ogdataset/A_5098.jpg	2
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bock, Christoph Wilhelm_ogdataset/A_26687.jpg	2
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bock, Christoph Wilhelm_ogdataset/A_26237.jpg	2
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bock, Christoph Wilhelm_ogdataset/A_15244.jpg	2
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bock, Christoph Wilhelm_ogdataset/A_23527.jpg	2
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bock, Christoph Wilhelm_ogdataset/A_24302.jpg	2
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bock, Christoph Wilhelm_ogdataset/A_27100.jpg	2
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bock, Christoph Wilhelm_ogdataset/A_11003.jpg	2
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bock, Christoph Wilhelm_ogdataset/A_26145.jpg	2
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bock, Christoph Wilhelm_ogdataset/A_9424.jpg	2
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bock, Christoph Wilhelm_ogdataset/A_10048.jpg	2
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bock, Christoph Wilhelm_ogdataset/A_11697.jpg	2
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bock, Christoph Wilhelm_ogdataset/A_19087.jpg	2
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bock, Christoph Wilhelm_ogdataset/A_8867.jpg	2
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bock, Christoph Wilhelm_ogdataset/A_15245.jpg	2
+/data/vifapi/ameed_ahmed_thesis/HildesheimThesis/CSWin_Transformer_main/PortraitDataset/test/Bock, Christoph Wilhelm_ogdataset/A_11734.jpg	2
