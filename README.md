@@ -14,9 +14,12 @@ Use evidence counterfactuals, attention maps and segmentation to analyze model d
 Contribution: A pipeline for art dataset preparation, training, and explainability, with case studies on portraits and historical datasets.
 
 🗂 Repository Structure
-├── data/                         # Dataset folders (PortraitDataset, HAB, WikiArt, etc.)
+├── data/  # Dataset folders (PortraitDataset, HAB, WikiArt, etc.)
+
 ├── preprocessing/                # Scripts for data cleaning and cropping
+
 │   ├── DP.py
+
 │   ├── DP_crop.py
 │   └── filecount.py
 ├── training/                     # Model training and fine-tuning
