@@ -36,6 +36,7 @@ Contribution: A pipeline for art dataset preparation, training, and explainabili
 ├── requirements.txt              # Dependencies
 └── thesis.pdf                    # Final thesis document (if included)
 
+
 🔬 Research Context
 
 This project builds on research in computational art history, domain adaptation, and explainable AI.
